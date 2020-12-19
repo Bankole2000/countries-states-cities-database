@@ -23,6 +23,12 @@
 		<string>افغانستان</string>
 		<key>phone_code</key>
 		<string>93</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Kabul',gmtOffset:16200,gmtOffsetName:'UTC+04:30',abbreviation:'AFT',tzName:'Afghanistan Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -45,6 +51,12 @@
 		<string>Åland</string>
 		<key>phone_code</key>
 		<string>+358-18</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Mariehamn',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -67,6 +79,12 @@
 		<string>Shqipëria</string>
 		<key>phone_code</key>
 		<string>355</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Tirane',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -89,6 +107,12 @@
 		<string>الجزائر</string>
 		<key>phone_code</key>
 		<string>213</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Northern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Algiers',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -111,6 +135,12 @@
 		<string>American Samoa</string>
 		<key>phone_code</key>
 		<string>+1-684</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Pago_Pago',gmtOffset:-39600,gmtOffsetName:'UTC-11:00',abbreviation:'SST',tzName:'Samoa Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -133,6 +163,12 @@
 		<string>Andorra</string>
 		<key>phone_code</key>
 		<string>376</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Andorra',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -155,6 +191,12 @@
 		<string>Angola</string>
 		<key>phone_code</key>
 		<string>244</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Luanda',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -177,6 +219,12 @@
 		<string>Anguilla</string>
 		<key>phone_code</key>
 		<string>+1-264</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Anguilla',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -199,6 +247,12 @@
 		<string>Antarctica</string>
 		<key>phone_code</key>
 		<string></string>
+		<key>region</key>
+		<string>Polar</string>
+		<key>subregion</key>
+		<string></string>
+		<key>timezones</key>
+		<string>[{zoneName:'Antarctica\/Casey',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'AWST',tzName:'Australian Western Standard Time'},{zoneName:'Antarctica\/Davis',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'DAVT',tzName:'Davis Time'},{zoneName:'Antarctica\/DumontDUrville',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'DDUT',tzName:'Dumont d'Urville Time'},{zoneName:'Antarctica\/Mawson',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'MAWT',tzName:'Mawson Station Time'},{zoneName:'Antarctica\/McMurdo',gmtOffset:46800,gmtOffsetName:'UTC+13:00',abbreviation:'NZDT',tzName:'New Zealand Daylight Time'},{zoneName:'Antarctica\/Palmer',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'CLST',tzName:'Chile Summer Time'},{zoneName:'Antarctica\/Rothera',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ROTT',tzName:'Rothera Research Station Time'},{zoneName:'Antarctica\/Syowa',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'SYOT',tzName:'Showa Station Time'},{zoneName:'Antarctica\/Troll',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'},{zoneName:'Antarctica\/Vostok',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'VOST',tzName:'Vostok Station Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -221,6 +275,12 @@
 		<string>Antigua and Barbuda</string>
 		<key>phone_code</key>
 		<string>+1-268</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Antigua',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -243,6 +303,12 @@
 		<string>Argentina</string>
 		<key>phone_code</key>
 		<string>54</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Argentina\/Buenos_Aires',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Catamarca',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Cordoba',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Jujuy',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/La_Rioja',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Mendoza',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Rio_Gallegos',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Salta',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/San_Juan',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/San_Luis',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Tucuman',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'},{zoneName:'America\/Argentina\/Ushuaia',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'ART',tzName:'Argentina Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -265,6 +331,12 @@
 		<string>Հայաստան</string>
 		<key>phone_code</key>
 		<string>374</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Yerevan',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'AMT',tzName:'Armenia Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -287,6 +359,12 @@
 		<string>Aruba</string>
 		<key>phone_code</key>
 		<string>297</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Aruba',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -309,6 +387,12 @@
 		<string>Australia</string>
 		<key>phone_code</key>
 		<string>61</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Australia and New Zealand</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Antarctica\/Macquarie',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'MIST',tzName:'Macquarie Island Station Time'},{zoneName:'Australia\/Adelaide',gmtOffset:37800,gmtOffsetName:'UTC+10:30',abbreviation:'ACDT',tzName:'Australian Central Daylight Saving Time'},{zoneName:'Australia\/Brisbane',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'AEST',tzName:'Australian Eastern Standard Time'},{zoneName:'Australia\/Broken_Hill',gmtOffset:37800,gmtOffsetName:'UTC+10:30',abbreviation:'ACDT',tzName:'Australian Central Daylight Saving Time'},{zoneName:'Australia\/Currie',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'AEDT',tzName:'Australian Eastern Daylight Saving Time'},{zoneName:'Australia\/Darwin',gmtOffset:34200,gmtOffsetName:'UTC+09:30',abbreviation:'ACST',tzName:'Australian Central Standard Time'},{zoneName:'Australia\/Eucla',gmtOffset:31500,gmtOffsetName:'UTC+08:45',abbreviation:'ACWST',tzName:'Australian Central Western Standard Time (Unofficial)'},{zoneName:'Australia\/Hobart',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'AEDT',tzName:'Australian Eastern Daylight Saving Time'},{zoneName:'Australia\/Lindeman',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'AEST',tzName:'Australian Eastern Standard Time'},{zoneName:'Australia\/Lord_Howe',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'LHST',tzName:'Lord Howe Summer Time'},{zoneName:'Australia\/Melbourne',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'AEDT',tzName:'Australian Eastern Daylight Saving Time'},{zoneName:'Australia\/Perth',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'AWST',tzName:'Australian Western Standard Time'},{zoneName:'Australia\/Sydney',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'AEDT',tzName:'Australian Eastern Daylight Saving Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -331,6 +415,12 @@
 		<string>Österreich</string>
 		<key>phone_code</key>
 		<string>43</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Vienna',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -353,6 +443,12 @@
 		<string>Azərbaycan</string>
 		<key>phone_code</key>
 		<string>994</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Baku',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'AZT',tzName:'Azerbaijan Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -375,6 +471,12 @@
 		<string>Bahamas</string>
 		<key>phone_code</key>
 		<string>+1-242</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Nassau',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America)'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -397,6 +499,12 @@
 		<string>‏البحرين</string>
 		<key>phone_code</key>
 		<string>973</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Bahrain',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'AST',tzName:'Arabia Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -419,6 +527,12 @@
 		<string>Bangladesh</string>
 		<key>phone_code</key>
 		<string>880</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Dhaka',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'BDT',tzName:'Bangladesh Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -441,6 +555,12 @@
 		<string>Barbados</string>
 		<key>phone_code</key>
 		<string>+1-246</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Barbados',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -463,6 +583,12 @@
 		<string>Белару́сь</string>
 		<key>phone_code</key>
 		<string>375</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Minsk',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'MSK',tzName:'Moscow Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -485,6 +611,12 @@
 		<string>België</string>
 		<key>phone_code</key>
 		<string>32</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Brussels',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -507,6 +639,12 @@
 		<string>Belize</string>
 		<key>phone_code</key>
 		<string>501</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Belize',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America)'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -529,6 +667,12 @@
 		<string>Bénin</string>
 		<key>phone_code</key>
 		<string>229</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Porto-Novo',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -551,6 +695,12 @@
 		<string>Bermuda</string>
 		<key>phone_code</key>
 		<string>+1-441</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Northern America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/Bermuda',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -573,6 +723,12 @@
 		<string>ʼbrug-yul</string>
 		<key>phone_code</key>
 		<string>975</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Thimphu',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'BTT',tzName:'Bhutan Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -595,6 +751,40 @@
 		<string>Bolivia</string>
 		<key>phone_code</key>
 		<string>591</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/La_Paz',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'BOT',tzName:'Bolivia Time'}]</string>
+	</dict>
+	<dict>
+		<key>capital</key>
+		<string>Kralendijk</string>
+		<key>currency</key>
+		<string>USD</string>
+		<key>emoji</key>
+		<string>🇧🇶</string>
+		<key>emojiU</key>
+		<string>U+1F1E7 U+1F1F6</string>
+		<key>id</key>
+		<string>155</string>
+		<key>iso2</key>
+		<string>BQ</string>
+		<key>iso3</key>
+		<string>BES</string>
+		<key>name</key>
+		<string>Bonaire, Sint Eustatius and Saba</string>
+		<key>native</key>
+		<string>Caribisch Nederland</string>
+		<key>phone_code</key>
+		<string>599</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Anguilla',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -617,6 +807,12 @@
 		<string>Bosna i Hercegovina</string>
 		<key>phone_code</key>
 		<string>387</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Sarajevo',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -639,6 +835,12 @@
 		<string>Botswana</string>
 		<key>phone_code</key>
 		<string>267</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Southern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Gaborone',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -660,7 +862,13 @@
 		<key>native</key>
 		<string>Bouvetøya</string>
 		<key>phone_code</key>
+		<string>0055</string>
+		<key>region</key>
 		<string></string>
+		<key>subregion</key>
+		<string></string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Oslo',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -683,6 +891,12 @@
 		<string>Brasil</string>
 		<key>phone_code</key>
 		<string>55</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Araguaina',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'},{zoneName:'America\/Bahia',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'},{zoneName:'America\/Belem',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'},{zoneName:'America\/Boa_Vista',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AMT',tzName:'Amazon Time (Brazil)[3'},{zoneName:'America\/Campo_Grande',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AMT',tzName:'Amazon Time (Brazil)[3'},{zoneName:'America\/Cuiaba',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'BRT',tzName:'Brasilia Time'},{zoneName:'America\/Eirunepe',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'ACT',tzName:'Acre Time'},{zoneName:'America\/Fortaleza',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'},{zoneName:'America\/Maceio',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'},{zoneName:'America\/Manaus',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AMT',tzName:'Amazon Time (Brazil)'},{zoneName:'America\/Noronha',gmtOffset:-7200,gmtOffsetName:'UTC-02:00',abbreviation:'FNT',tzName:'Fernando de Noronha Time'},{zoneName:'America\/Porto_Velho',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AMT',tzName:'Amazon Time (Brazil)[3'},{zoneName:'America\/Recife',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'},{zoneName:'America\/Rio_Branco',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'ACT',tzName:'Acre Time'},{zoneName:'America\/Santarem',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'},{zoneName:'America\/Sao_Paulo',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'BRT',tzName:'Bras\u00edlia Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -705,6 +919,12 @@
 		<string>British Indian Ocean Territory</string>
 		<key>phone_code</key>
 		<string>246</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Chagos',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'IOT',tzName:'Indian Ocean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -727,6 +947,12 @@
 		<string>Negara Brunei Darussalam</string>
 		<key>phone_code</key>
 		<string>673</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Brunei',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'BNT',tzName:'Brunei Darussalam Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -749,6 +975,12 @@
 		<string>България</string>
 		<key>phone_code</key>
 		<string>359</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Sofia',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -771,6 +1003,12 @@
 		<string>Burkina Faso</string>
 		<key>phone_code</key>
 		<string>226</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Ouagadougou',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -793,6 +1031,12 @@
 		<string>Burundi</string>
 		<key>phone_code</key>
 		<string>257</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Bujumbura',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -815,6 +1059,12 @@
 		<string>Kâmpŭchéa</string>
 		<key>phone_code</key>
 		<string>855</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Phnom_Penh',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'ICT',tzName:'Indochina Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -837,6 +1087,12 @@
 		<string>Cameroon</string>
 		<key>phone_code</key>
 		<string>237</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Douala',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -859,6 +1115,12 @@
 		<string>Canada</string>
 		<key>phone_code</key>
 		<string>1</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Northern America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Atikokan',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America)'},{zoneName:'America\/Blanc-Sablon',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'},{zoneName:'America\/Cambridge_Bay',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America)'},{zoneName:'America\/Creston',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America)'},{zoneName:'America\/Dawson',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America)'},{zoneName:'America\/Dawson_Creek',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America)'},{zoneName:'America\/Edmonton',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America)'},{zoneName:'America\/Fort_Nelson',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America)'},{zoneName:'America\/Glace_Bay',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'},{zoneName:'America\/Goose_Bay',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'},{zoneName:'America\/Halifax',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'},{zoneName:'America\/Inuvik',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Iqaluit',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Moncton',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'},{zoneName:'America\/Nipigon',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Pangnirtung',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Rainy_River',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Rankin_Inlet',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Regina',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Resolute',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/St_Johns',gmtOffset:-12600,gmtOffsetName:'UTC-03:30',abbreviation:'NST',tzName:'Newfoundland Standard Time'},{zoneName:'America\/Swift_Current',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Thunder_Bay',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Toronto',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Vancouver',gmtOffset:-28800,gmtOffsetName:'UTC-08:00',abbreviation:'PST',tzName:'Pacific Standard Time (North America'},{zoneName:'America\/Whitehorse',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Winnipeg',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Yellowknife',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -881,6 +1143,12 @@
 		<string>Cabo Verde</string>
 		<key>phone_code</key>
 		<string>238</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/Cape_Verde',gmtOffset:-3600,gmtOffsetName:'UTC-01:00',abbreviation:'CVT',tzName:'Cape Verde Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -903,6 +1171,12 @@
 		<string>Cayman Islands</string>
 		<key>phone_code</key>
 		<string>+1-345</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Cayman',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -925,6 +1199,12 @@
 		<string>Ködörösêse tî Bêafrîka</string>
 		<key>phone_code</key>
 		<string>236</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Bangui',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -947,6 +1227,12 @@
 		<string>Tchad</string>
 		<key>phone_code</key>
 		<string>235</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Ndjamena',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -969,6 +1255,12 @@
 		<string>Chile</string>
 		<key>phone_code</key>
 		<string>56</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Punta_Arenas',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'CLST',tzName:'Chile Summer Time'},{zoneName:'America\/Santiago',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'CLST',tzName:'Chile Summer Time'},{zoneName:'Pacific\/Easter',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EASST',tzName:'Easter Island Summer Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -991,6 +1283,12 @@
 		<string>中国</string>
 		<key>phone_code</key>
 		<string>86</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Shanghai',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'CST',tzName:'China Standard Time'},{zoneName:'Asia\/Urumqi',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'XJT',tzName:'China Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1013,6 +1311,12 @@
 		<string>Christmas Island</string>
 		<key>phone_code</key>
 		<string>61</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Australia and New Zealand</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Christmas',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'CXT',tzName:'Christmas Island Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1035,6 +1339,12 @@
 		<string>Cocos (Keeling) Islands</string>
 		<key>phone_code</key>
 		<string>61</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Australia and New Zealand</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Cocos',gmtOffset:23400,gmtOffsetName:'UTC+06:30',abbreviation:'CCT',tzName:'Cocos Islands Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1057,6 +1367,12 @@
 		<string>Colombia</string>
 		<key>phone_code</key>
 		<string>57</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Bogota',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'COT',tzName:'Colombia Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1079,6 +1395,12 @@
 		<string>Komori</string>
 		<key>phone_code</key>
 		<string>269</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Comoro',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1101,6 +1423,12 @@
 		<string>République du Congo</string>
 		<key>phone_code</key>
 		<string>242</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Brazzaville',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1123,6 +1451,12 @@
 		<string>République démocratique du Congo</string>
 		<key>phone_code</key>
 		<string>243</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Kinshasa',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'},{zoneName:'Africa\/Lubumbashi',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1145,6 +1479,12 @@
 		<string>Cook Islands</string>
 		<key>phone_code</key>
 		<string>682</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Rarotonga',gmtOffset:-36000,gmtOffsetName:'UTC-10:00',abbreviation:'CKT',tzName:'Cook Island Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1167,6 +1507,12 @@
 		<string>Costa Rica</string>
 		<key>phone_code</key>
 		<string>506</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Costa_Rica',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1189,6 +1535,12 @@
 		<string></string>
 		<key>phone_code</key>
 		<string>225</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Abidjan',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1211,6 +1563,12 @@
 		<string>Hrvatska</string>
 		<key>phone_code</key>
 		<string>385</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Zagreb',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1233,6 +1591,40 @@
 		<string>Cuba</string>
 		<key>phone_code</key>
 		<string>53</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Havana',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'CST',tzName:'Cuba Standard Time'}]</string>
+	</dict>
+	<dict>
+		<key>capital</key>
+		<string>Willemstad</string>
+		<key>currency</key>
+		<string>ANG</string>
+		<key>emoji</key>
+		<string>🇨🇼</string>
+		<key>emojiU</key>
+		<string>U+1F1E8 U+1F1FC</string>
+		<key>id</key>
+		<string>249</string>
+		<key>iso2</key>
+		<string>CW</string>
+		<key>iso3</key>
+		<string>CUW</string>
+		<key>name</key>
+		<string>Curaçao</string>
+		<key>native</key>
+		<string>Curaçao</string>
+		<key>phone_code</key>
+		<string>599</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Curacao',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1255,6 +1647,12 @@
 		<string>Κύπρος</string>
 		<key>phone_code</key>
 		<string>357</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Famagusta',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'},{zoneName:'Asia\/Nicosia',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1277,6 +1675,12 @@
 		<string>Česká republika</string>
 		<key>phone_code</key>
 		<string>420</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Prague',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1299,6 +1703,12 @@
 		<string>Danmark</string>
 		<key>phone_code</key>
 		<string>45</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Copenhagen',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1321,6 +1731,12 @@
 		<string>Djibouti</string>
 		<key>phone_code</key>
 		<string>253</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Djibouti',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1343,6 +1759,12 @@
 		<string>Dominica</string>
 		<key>phone_code</key>
 		<string>+1-767</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Dominica',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1365,6 +1787,12 @@
 		<string>República Dominicana</string>
 		<key>phone_code</key>
 		<string>+1-809 and 1-829</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Santo_Domingo',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1387,6 +1815,12 @@
 		<string>Timor-Leste</string>
 		<key>phone_code</key>
 		<string>670</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Dili',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'TLT',tzName:'Timor Leste Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1409,6 +1843,12 @@
 		<string>Ecuador</string>
 		<key>phone_code</key>
 		<string>593</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Guayaquil',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'ECT',tzName:'Ecuador Time'},{zoneName:'Pacific\/Galapagos',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'GALT',tzName:'Gal\u00e1pagos Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1431,6 +1871,12 @@
 		<string>مصر‎</string>
 		<key>phone_code</key>
 		<string>20</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Northern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Cairo',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1453,6 +1899,12 @@
 		<string>El Salvador</string>
 		<key>phone_code</key>
 		<string>503</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/El_Salvador',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1475,6 +1927,12 @@
 		<string>Guinea Ecuatorial</string>
 		<key>phone_code</key>
 		<string>240</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Malabo',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1497,6 +1955,12 @@
 		<string>ኤርትራ</string>
 		<key>phone_code</key>
 		<string>291</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Asmara',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1519,6 +1983,12 @@
 		<string>Eesti</string>
 		<key>phone_code</key>
 		<string>372</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Tallinn',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1541,6 +2011,12 @@
 		<string>ኢትዮጵያ</string>
 		<key>phone_code</key>
 		<string>251</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Addis_Ababa',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1563,6 +2039,12 @@
 		<string>Falkland Islands</string>
 		<key>phone_code</key>
 		<string>500</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/Stanley',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'FKST',tzName:'Falkland Islands Summer Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1585,6 +2067,12 @@
 		<string>Føroyar</string>
 		<key>phone_code</key>
 		<string>298</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/Faroe',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'WET',tzName:'Western European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1607,6 +2095,12 @@
 		<string>Fiji</string>
 		<key>phone_code</key>
 		<string>679</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Melanesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Fiji',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'FJT',tzName:'Fiji Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1629,6 +2123,12 @@
 		<string>Suomi</string>
 		<key>phone_code</key>
 		<string>358</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Helsinki',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1651,6 +2151,12 @@
 		<string>France</string>
 		<key>phone_code</key>
 		<string>33</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Paris',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1673,6 +2179,12 @@
 		<string>Guyane française</string>
 		<key>phone_code</key>
 		<string>594</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Cayenne',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'GFT',tzName:'French Guiana Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1695,6 +2207,12 @@
 		<string>Polynésie française</string>
 		<key>phone_code</key>
 		<string>689</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Gambier',gmtOffset:-32400,gmtOffsetName:'UTC-09:00',abbreviation:'GAMT',tzName:'Gambier Islands Time'},{zoneName:'Pacific\/Marquesas',gmtOffset:-34200,gmtOffsetName:'UTC-09:30',abbreviation:'MART',tzName:'Marquesas Islands Time'},{zoneName:'Pacific\/Tahiti',gmtOffset:-36000,gmtOffsetName:'UTC-10:00',abbreviation:'TAHT',tzName:'Tahiti Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1717,6 +2235,12 @@
 		<string>Territoire des Terres australes et antarctiques fr</string>
 		<key>phone_code</key>
 		<string></string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Southern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Kerguelen',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'TFT',tzName:'French Southern and Antarctic Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1739,6 +2263,12 @@
 		<string>Gabon</string>
 		<key>phone_code</key>
 		<string>241</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Libreville',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1761,6 +2291,12 @@
 		<string>Gambia</string>
 		<key>phone_code</key>
 		<string>220</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Banjul',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1783,6 +2319,12 @@
 		<string>საქართველო</string>
 		<key>phone_code</key>
 		<string>995</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Tbilisi',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'GET',tzName:'Georgia Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1805,6 +2347,12 @@
 		<string>Deutschland</string>
 		<key>phone_code</key>
 		<string>49</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Berlin',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'},{zoneName:'Europe\/Busingen',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1827,6 +2375,12 @@
 		<string>Ghana</string>
 		<key>phone_code</key>
 		<string>233</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Accra',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1849,6 +2403,12 @@
 		<string>Gibraltar</string>
 		<key>phone_code</key>
 		<string>350</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Gibraltar',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1871,6 +2431,12 @@
 		<string>Ελλάδα</string>
 		<key>phone_code</key>
 		<string>30</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Athens',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1893,6 +2459,12 @@
 		<string>Kalaallit Nunaat</string>
 		<key>phone_code</key>
 		<string>299</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Northern America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Danmarkshavn',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'},{zoneName:'America\/Nuuk',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'WGT',tzName:'West Greenland Time'},{zoneName:'America\/Scoresbysund',gmtOffset:-3600,gmtOffsetName:'UTC-01:00',abbreviation:'EGT',tzName:'Eastern Greenland Time'},{zoneName:'America\/Thule',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1915,6 +2487,12 @@
 		<string>Grenada</string>
 		<key>phone_code</key>
 		<string>+1-473</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Grenada',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1937,6 +2515,12 @@
 		<string>Guadeloupe</string>
 		<key>phone_code</key>
 		<string>590</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Guadeloupe',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1959,6 +2543,12 @@
 		<string>Guam</string>
 		<key>phone_code</key>
 		<string>+1-671</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Micronesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Guam',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'CHST',tzName:'Chamorro Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -1981,6 +2571,12 @@
 		<string>Guatemala</string>
 		<key>phone_code</key>
 		<string>502</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Guatemala',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2003,6 +2599,12 @@
 		<string>Guernsey</string>
 		<key>phone_code</key>
 		<string>+44-1481</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Guernsey',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2025,6 +2627,12 @@
 		<string>Guinée</string>
 		<key>phone_code</key>
 		<string>224</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Conakry',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2047,6 +2655,12 @@
 		<string>Guiné-Bissau</string>
 		<key>phone_code</key>
 		<string>245</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Bissau',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2069,6 +2683,12 @@
 		<string>Guyana</string>
 		<key>phone_code</key>
 		<string>592</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Guyana',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'GYT',tzName:'Guyana Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2091,6 +2711,12 @@
 		<string>Haïti</string>
 		<key>phone_code</key>
 		<string>509</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Port-au-Prince',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2108,11 +2734,17 @@
 		<key>iso3</key>
 		<string>HMD</string>
 		<key>name</key>
-		<string>Heard and McDonald Islands</string>
+		<string>Heard Island and McDonald Islands</string>
 		<key>native</key>
 		<string>Heard Island and McDonald Islands</string>
 		<key>phone_code</key>
-		<string> </string>
+		<string></string>
+		<key>region</key>
+		<string></string>
+		<key>subregion</key>
+		<string></string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Kerguelen',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'TFT',tzName:'French Southern and Antarctic Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2135,6 +2767,12 @@
 		<string>Honduras</string>
 		<key>phone_code</key>
 		<string>504</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Tegucigalpa',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2157,6 +2795,12 @@
 		<string>香港</string>
 		<key>phone_code</key>
 		<string>852</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Hong_Kong',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'HKT',tzName:'Hong Kong Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2179,6 +2823,12 @@
 		<string>Magyarország</string>
 		<key>phone_code</key>
 		<string>36</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Budapest',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2201,6 +2851,12 @@
 		<string>Ísland</string>
 		<key>phone_code</key>
 		<string>354</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/Reykjavik',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2223,6 +2879,12 @@
 		<string>भारत</string>
 		<key>phone_code</key>
 		<string>91</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Kolkata',gmtOffset:19800,gmtOffsetName:'UTC+05:30',abbreviation:'IST',tzName:'Indian Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2245,6 +2907,12 @@
 		<string>Indonesia</string>
 		<key>phone_code</key>
 		<string>62</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Jakarta',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'WIB',tzName:'Western Indonesian Time'},{zoneName:'Asia\/Jayapura',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'WIT',tzName:'Eastern Indonesian Time'},{zoneName:'Asia\/Makassar',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'WITA',tzName:'Central Indonesia Time'},{zoneName:'Asia\/Pontianak',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'WIB',tzName:'Western Indonesian Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2267,6 +2935,12 @@
 		<string>ایران</string>
 		<key>phone_code</key>
 		<string>98</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Tehran',gmtOffset:12600,gmtOffsetName:'UTC+03:30',abbreviation:'IRDT',tzName:'Iran Daylight Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2289,6 +2963,12 @@
 		<string>العراق</string>
 		<key>phone_code</key>
 		<string>964</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Baghdad',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'AST',tzName:'Arabia Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2311,6 +2991,12 @@
 		<string>Éire</string>
 		<key>phone_code</key>
 		<string>353</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Dublin',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2333,6 +3019,12 @@
 		<string>יִשְׂרָאֵל</string>
 		<key>phone_code</key>
 		<string>972</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Jerusalem',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'IST',tzName:'Israel Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2355,6 +3047,12 @@
 		<string>Italia</string>
 		<key>phone_code</key>
 		<string>39</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Rome',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2377,6 +3075,12 @@
 		<string>Jamaica</string>
 		<key>phone_code</key>
 		<string>+1-876</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Jamaica',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2399,6 +3103,12 @@
 		<string>日本</string>
 		<key>phone_code</key>
 		<string>81</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Tokyo',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'JST',tzName:'Japan Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2421,6 +3131,12 @@
 		<string>Jersey</string>
 		<key>phone_code</key>
 		<string>+44-1534</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Jersey',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2443,6 +3159,12 @@
 		<string>الأردن</string>
 		<key>phone_code</key>
 		<string>962</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Amman',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2465,6 +3187,12 @@
 		<string>Қазақстан</string>
 		<key>phone_code</key>
 		<string>7</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Central Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Almaty',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'ALMT',tzName:'Alma-Ata Time[1'},{zoneName:'Asia\/Aqtau',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'AQTT',tzName:'Aqtobe Time'},{zoneName:'Asia\/Aqtobe',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'AQTT',tzName:'Aqtobe Time'},{zoneName:'Asia\/Atyrau',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'MSD+1',tzName:'Moscow Daylight Time+1'},{zoneName:'Asia\/Oral',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'ORAT',tzName:'Oral Time'},{zoneName:'Asia\/Qostanay',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'QYZST',tzName:'Qyzylorda Summer Time'},{zoneName:'Asia\/Qyzylorda',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'QYZT',tzName:'Qyzylorda Summer Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2487,6 +3215,12 @@
 		<string>Kenya</string>
 		<key>phone_code</key>
 		<string>254</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Nairobi',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2509,6 +3243,12 @@
 		<string>Kiribati</string>
 		<key>phone_code</key>
 		<string>686</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Micronesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Enderbury',gmtOffset:46800,gmtOffsetName:'UTC+13:00',abbreviation:'PHOT',tzName:'Phoenix Island Time'},{zoneName:'Pacific\/Kiritimati',gmtOffset:50400,gmtOffsetName:'UTC+14:00',abbreviation:'LINT',tzName:'Line Islands Time'},{zoneName:'Pacific\/Tarawa',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'GILT',tzName:'Gilbert Island Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2531,6 +3271,12 @@
 		<string>북한</string>
 		<key>phone_code</key>
 		<string>850</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Pyongyang',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'KST',tzName:'Korea Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2553,6 +3299,12 @@
 		<string>대한민국</string>
 		<key>phone_code</key>
 		<string>82</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Seoul',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'KST',tzName:'Korea Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2575,6 +3327,12 @@
 		<string>Republika e Kosovës</string>
 		<key>phone_code</key>
 		<string>383</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Belgrade',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2597,6 +3355,12 @@
 		<string>الكويت</string>
 		<key>phone_code</key>
 		<string>965</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Kuwait',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'AST',tzName:'Arabia Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2619,6 +3383,12 @@
 		<string>Кыргызстан</string>
 		<key>phone_code</key>
 		<string>996</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Central Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Bishkek',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'KGT',tzName:'Kyrgyzstan Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2641,6 +3411,12 @@
 		<string>ສປປລາວ</string>
 		<key>phone_code</key>
 		<string>856</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Vientiane',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'ICT',tzName:'Indochina Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2663,6 +3439,12 @@
 		<string>Latvija</string>
 		<key>phone_code</key>
 		<string>371</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Riga',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2685,6 +3467,12 @@
 		<string>لبنان</string>
 		<key>phone_code</key>
 		<string>961</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Beirut',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2707,6 +3495,12 @@
 		<string>Lesotho</string>
 		<key>phone_code</key>
 		<string>266</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Southern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Maseru',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'SAST',tzName:'South African Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2729,6 +3523,12 @@
 		<string>Liberia</string>
 		<key>phone_code</key>
 		<string>231</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Monrovia',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2751,6 +3551,12 @@
 		<string>‏ليبيا</string>
 		<key>phone_code</key>
 		<string>218</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Northern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Tripoli',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2773,6 +3579,12 @@
 		<string>Liechtenstein</string>
 		<key>phone_code</key>
 		<string>423</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Vaduz',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2795,6 +3607,12 @@
 		<string>Lietuva</string>
 		<key>phone_code</key>
 		<string>370</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Vilnius',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2817,6 +3635,12 @@
 		<string>Luxembourg</string>
 		<key>phone_code</key>
 		<string>352</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Luxembourg',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2839,6 +3663,12 @@
 		<string>澳門</string>
 		<key>phone_code</key>
 		<string>853</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Macau',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'CST',tzName:'China Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2861,6 +3691,12 @@
 		<string>Северна Македонија</string>
 		<key>phone_code</key>
 		<string>389</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Skopje',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2883,6 +3719,12 @@
 		<string>Madagasikara</string>
 		<key>phone_code</key>
 		<string>261</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Antananarivo',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2905,6 +3747,12 @@
 		<string>Malawi</string>
 		<key>phone_code</key>
 		<string>265</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Blantyre',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2927,6 +3775,12 @@
 		<string>Malaysia</string>
 		<key>phone_code</key>
 		<string>60</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Kuala_Lumpur',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'MYT',tzName:'Malaysia Time'},{zoneName:'Asia\/Kuching',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'MYT',tzName:'Malaysia Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2949,6 +3803,12 @@
 		<string>Maldives</string>
 		<key>phone_code</key>
 		<string>960</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Maldives',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'MVT',tzName:'Maldives Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2971,6 +3831,12 @@
 		<string>Mali</string>
 		<key>phone_code</key>
 		<string>223</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Bamako',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -2993,6 +3859,12 @@
 		<string>Malta</string>
 		<key>phone_code</key>
 		<string>356</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Malta',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3015,6 +3887,12 @@
 		<string>Isle of Man</string>
 		<key>phone_code</key>
 		<string>+44-1624</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Isle_of_Man',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3037,6 +3915,12 @@
 		<string>M̧ajeļ</string>
 		<key>phone_code</key>
 		<string>692</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Micronesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Kwajalein',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'MHT',tzName:'Marshall Islands Time'},{zoneName:'Pacific\/Majuro',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'MHT',tzName:'Marshall Islands Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3059,6 +3943,12 @@
 		<string>Martinique</string>
 		<key>phone_code</key>
 		<string>596</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Martinique',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3081,6 +3971,12 @@
 		<string>موريتانيا</string>
 		<key>phone_code</key>
 		<string>222</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Nouakchott',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3103,6 +3999,12 @@
 		<string>Maurice</string>
 		<key>phone_code</key>
 		<string>230</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Mauritius',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'MUT',tzName:'Mauritius Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3125,6 +4027,12 @@
 		<string>Mayotte</string>
 		<key>phone_code</key>
 		<string>262</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Mayotte',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3147,6 +4055,12 @@
 		<string>México</string>
 		<key>phone_code</key>
 		<string>52</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Bahia_Banderas',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Cancun',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Chihuahua',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Hermosillo',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Matamoros',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Mazatlan',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Merida',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Mexico_City',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Monterrey',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Ojinaga',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Tijuana',gmtOffset:-28800,gmtOffsetName:'UTC-08:00',abbreviation:'PST',tzName:'Pacific Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3169,6 +4083,12 @@
 		<string>Micronesia</string>
 		<key>phone_code</key>
 		<string>691</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Micronesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Chuuk',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'CHUT',tzName:'Chuuk Time'},{zoneName:'Pacific\/Kosrae',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'KOST',tzName:'Kosrae Time'},{zoneName:'Pacific\/Pohnpei',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'PONT',tzName:'Pohnpei Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3191,6 +4111,12 @@
 		<string>Moldova</string>
 		<key>phone_code</key>
 		<string>373</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Chisinau',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3213,6 +4139,12 @@
 		<string>Monaco</string>
 		<key>phone_code</key>
 		<string>377</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Monaco',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3235,6 +4167,12 @@
 		<string>Монгол улс</string>
 		<key>phone_code</key>
 		<string>976</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Choibalsan',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'CHOT',tzName:'Choibalsan Standard Time'},{zoneName:'Asia\/Hovd',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'HOVT',tzName:'Hovd Time'},{zoneName:'Asia\/Ulaanbaatar',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'ULAT',tzName:'Ulaanbaatar Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3257,6 +4195,12 @@
 		<string>Црна Гора</string>
 		<key>phone_code</key>
 		<string>382</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Podgorica',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3279,6 +4223,12 @@
 		<string>Montserrat</string>
 		<key>phone_code</key>
 		<string>+1-664</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Montserrat',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3301,6 +4251,12 @@
 		<string>المغرب</string>
 		<key>phone_code</key>
 		<string>212</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Northern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Casablanca',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WEST',tzName:'Western European Summer Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3323,6 +4279,12 @@
 		<string>Moçambique</string>
 		<key>phone_code</key>
 		<string>258</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Maputo',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3345,6 +4307,12 @@
 		<string>မြန်မာ</string>
 		<key>phone_code</key>
 		<string>95</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Yangon',gmtOffset:23400,gmtOffsetName:'UTC+06:30',abbreviation:'MMT',tzName:'Myanmar Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3367,6 +4335,12 @@
 		<string>Namibia</string>
 		<key>phone_code</key>
 		<string>264</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Southern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Windhoek',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'WAST',tzName:'West Africa Summer Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3389,6 +4363,12 @@
 		<string>Nauru</string>
 		<key>phone_code</key>
 		<string>674</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Micronesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Nauru',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'NRT',tzName:'Nauru Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3411,28 +4391,12 @@
 		<string>नपल</string>
 		<key>phone_code</key>
 		<string>977</string>
-	</dict>
-	<dict>
-		<key>capital</key>
-		<string></string>
-		<key>currency</key>
-		<string></string>
-		<key>emoji</key>
-		<string></string>
-		<key>emojiU</key>
-		<string></string>
-		<key>id</key>
-		<string>155</string>
-		<key>iso2</key>
-		<string>AN</string>
-		<key>iso3</key>
-		<string>ANT</string>
-		<key>name</key>
-		<string>Netherlands Antilles</string>
-		<key>native</key>
-		<string></string>
-		<key>phone_code</key>
-		<string></string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Kathmandu',gmtOffset:20700,gmtOffsetName:'UTC+05:45',abbreviation:'NPT',tzName:'Nepal Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3455,6 +4419,12 @@
 		<string>Nederland</string>
 		<key>phone_code</key>
 		<string>31</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Amsterdam',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3477,6 +4447,12 @@
 		<string>Nouvelle-Calédonie</string>
 		<key>phone_code</key>
 		<string>687</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Melanesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Noumea',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'NCT',tzName:'New Caledonia Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3499,6 +4475,12 @@
 		<string>New Zealand</string>
 		<key>phone_code</key>
 		<string>64</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Australia and New Zealand</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Auckland',gmtOffset:46800,gmtOffsetName:'UTC+13:00',abbreviation:'NZDT',tzName:'New Zealand Daylight Time'},{zoneName:'Pacific\/Chatham',gmtOffset:49500,gmtOffsetName:'UTC+13:45',abbreviation:'CHAST',tzName:'Chatham Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3521,6 +4503,12 @@
 		<string>Nicaragua</string>
 		<key>phone_code</key>
 		<string>505</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Managua',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3543,6 +4531,12 @@
 		<string>Niger</string>
 		<key>phone_code</key>
 		<string>227</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Niamey',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3565,6 +4559,12 @@
 		<string>Nigeria</string>
 		<key>phone_code</key>
 		<string>234</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Lagos',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WAT',tzName:'West Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3587,6 +4587,12 @@
 		<string>Niuē</string>
 		<key>phone_code</key>
 		<string>683</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Niue',gmtOffset:-39600,gmtOffsetName:'UTC-11:00',abbreviation:'NUT',tzName:'Niue Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3609,6 +4615,12 @@
 		<string>Norfolk Island</string>
 		<key>phone_code</key>
 		<string>672</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Australia and New Zealand</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Norfolk',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'NFT',tzName:'Norfolk Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3631,6 +4643,12 @@
 		<string>Northern Mariana Islands</string>
 		<key>phone_code</key>
 		<string>+1-670</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Micronesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Saipan',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'ChST',tzName:'Chamorro Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3653,6 +4671,12 @@
 		<string>Norge</string>
 		<key>phone_code</key>
 		<string>47</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Oslo',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3675,6 +4699,12 @@
 		<string>عمان</string>
 		<key>phone_code</key>
 		<string>968</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Muscat',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'GST',tzName:'Gulf Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3697,6 +4727,12 @@
 		<string>Pakistan</string>
 		<key>phone_code</key>
 		<string>92</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Karachi',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'PKT',tzName:'Pakistan Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3719,6 +4755,12 @@
 		<string>Palau</string>
 		<key>phone_code</key>
 		<string>680</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Micronesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Palau',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'PWT',tzName:'Palau Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3741,6 +4783,12 @@
 		<string>فلسطين</string>
 		<key>phone_code</key>
 		<string>970</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Gaza',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'},{zoneName:'Asia\/Hebron',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3763,6 +4811,12 @@
 		<string>Panamá</string>
 		<key>phone_code</key>
 		<string>507</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Central America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Panama',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3785,6 +4839,12 @@
 		<string>Papua Niugini</string>
 		<key>phone_code</key>
 		<string>675</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Melanesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Bougainville',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'BST',tzName:'Bougainville Standard Time[6'},{zoneName:'Pacific\/Port_Moresby',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'PGT',tzName:'Papua New Guinea Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3807,6 +4867,12 @@
 		<string>Paraguay</string>
 		<key>phone_code</key>
 		<string>595</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Asuncion',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'PYST',tzName:'Paraguay Summer Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3829,6 +4895,12 @@
 		<string>Perú</string>
 		<key>phone_code</key>
 		<string>51</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Lima',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'PET',tzName:'Peru Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3851,6 +4923,12 @@
 		<string>Pilipinas</string>
 		<key>phone_code</key>
 		<string>63</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Manila',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'PHT',tzName:'Philippine Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3873,6 +4951,12 @@
 		<string>Pitcairn Islands</string>
 		<key>phone_code</key>
 		<string>870</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Pitcairn',gmtOffset:-28800,gmtOffsetName:'UTC-08:00',abbreviation:'PST',tzName:'Pacific Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3895,6 +4979,12 @@
 		<string>Polska</string>
 		<key>phone_code</key>
 		<string>48</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Warsaw',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3917,6 +5007,12 @@
 		<string>Portugal</string>
 		<key>phone_code</key>
 		<string>351</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/Azores',gmtOffset:-3600,gmtOffsetName:'UTC-01:00',abbreviation:'AZOT',tzName:'Azores Standard Time'},{zoneName:'Atlantic\/Madeira',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'WET',tzName:'Western European Time'},{zoneName:'Europe\/Lisbon',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'WET',tzName:'Western European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3939,6 +5035,12 @@
 		<string>Puerto Rico</string>
 		<key>phone_code</key>
 		<string>+1-787 and 1-939</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Puerto_Rico',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3961,6 +5063,12 @@
 		<string>قطر</string>
 		<key>phone_code</key>
 		<string>974</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Qatar',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'AST',tzName:'Arabia Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -3983,6 +5091,12 @@
 		<string>La Réunion</string>
 		<key>phone_code</key>
 		<string>262</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Reunion',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'RET',tzName:'R\u00e9union Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4005,6 +5119,12 @@
 		<string>România</string>
 		<key>phone_code</key>
 		<string>40</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Bucharest',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4027,6 +5147,12 @@
 		<string>Россия</string>
 		<key>phone_code</key>
 		<string>7</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Anadyr',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'ANAT',tzName:'Anadyr Time[4'},{zoneName:'Asia\/Barnaul',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'KRAT',tzName:'Krasnoyarsk Time'},{zoneName:'Asia\/Chita',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'YAKT',tzName:'Yakutsk Time'},{zoneName:'Asia\/Irkutsk',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'IRKT',tzName:'Irkutsk Time'},{zoneName:'Asia\/Kamchatka',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'PETT',tzName:'Kamchatka Time'},{zoneName:'Asia\/Khandyga',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'YAKT',tzName:'Yakutsk Time'},{zoneName:'Asia\/Krasnoyarsk',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'KRAT',tzName:'Krasnoyarsk Time'},{zoneName:'Asia\/Magadan',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'MAGT',tzName:'Magadan Time'},{zoneName:'Asia\/Novokuznetsk',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'KRAT',tzName:'Krasnoyarsk Time'},{zoneName:'Asia\/Novosibirsk',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'NOVT',tzName:'Novosibirsk Time'},{zoneName:'Asia\/Omsk',gmtOffset:21600,gmtOffsetName:'UTC+06:00',abbreviation:'OMST',tzName:'Omsk Time'},{zoneName:'Asia\/Sakhalin',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'SAKT',tzName:'Sakhalin Island Time'},{zoneName:'Asia\/Srednekolymsk',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'SRET',tzName:'Srednekolymsk Time'},{zoneName:'Asia\/Tomsk',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'MSD+3',tzName:'Moscow Daylight Time+3'},{zoneName:'Asia\/Ust-Nera',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'VLAT',tzName:'Vladivostok Time'},{zoneName:'Asia\/Vladivostok',gmtOffset:36000,gmtOffsetName:'UTC+10:00',abbreviation:'VLAT',tzName:'Vladivostok Time'},{zoneName:'Asia\/Yakutsk',gmtOffset:32400,gmtOffsetName:'UTC+09:00',abbreviation:'YAKT',tzName:'Yakutsk Time'},{zoneName:'Asia\/Yekaterinburg',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'YEKT',tzName:'Yekaterinburg Time'},{zoneName:'Europe\/Astrakhan',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'SAMT',tzName:'Samara Time'},{zoneName:'Europe\/Kaliningrad',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'},{zoneName:'Europe\/Kirov',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'MSK',tzName:'Moscow Time'},{zoneName:'Europe\/Moscow',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'MSK',tzName:'Moscow Time'},{zoneName:'Europe\/Samara',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'SAMT',tzName:'Samara Time'},{zoneName:'Europe\/Saratov',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'MSD',tzName:'Moscow Daylight Time+4'},{zoneName:'Europe\/Ulyanovsk',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'SAMT',tzName:'Samara Time'},{zoneName:'Europe\/Volgograd',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'MSK',tzName:'Moscow Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4049,6 +5175,12 @@
 		<string>Rwanda</string>
 		<key>phone_code</key>
 		<string>250</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Kigali',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4071,6 +5203,12 @@
 		<string>Saint Helena</string>
 		<key>phone_code</key>
 		<string>290</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/St_Helena',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4093,6 +5231,12 @@
 		<string>Saint Kitts and Nevis</string>
 		<key>phone_code</key>
 		<string>+1-869</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/St_Kitts',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4115,6 +5259,12 @@
 		<string>Saint Lucia</string>
 		<key>phone_code</key>
 		<string>+1-758</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/St_Lucia',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4137,6 +5287,12 @@
 		<string>Saint-Pierre-et-Miquelon</string>
 		<key>phone_code</key>
 		<string>508</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Northern America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Miquelon',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'PMDT',tzName:'Pierre &amp; Miquelon Daylight Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4159,6 +5315,12 @@
 		<string>Saint Vincent and the Grenadines</string>
 		<key>phone_code</key>
 		<string>+1-784</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/St_Vincent',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4181,6 +5343,12 @@
 		<string>Saint-Barthélemy</string>
 		<key>phone_code</key>
 		<string>590</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/St_Barthelemy',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4203,6 +5371,12 @@
 		<string>Saint-Martin</string>
 		<key>phone_code</key>
 		<string>590</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Marigot',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4225,6 +5399,12 @@
 		<string>Samoa</string>
 		<key>phone_code</key>
 		<string>685</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Apia',gmtOffset:50400,gmtOffsetName:'UTC+14:00',abbreviation:'WST',tzName:'West Samoa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4247,6 +5427,12 @@
 		<string>San Marino</string>
 		<key>phone_code</key>
 		<string>378</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/San_Marino',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4269,6 +5455,12 @@
 		<string>São Tomé e Príncipe</string>
 		<key>phone_code</key>
 		<string>239</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Sao_Tome',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4291,6 +5483,12 @@
 		<string>العربية السعودية</string>
 		<key>phone_code</key>
 		<string>966</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Riyadh',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'AST',tzName:'Arabia Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4313,6 +5511,12 @@
 		<string>Sénégal</string>
 		<key>phone_code</key>
 		<string>221</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Dakar',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4335,6 +5539,12 @@
 		<string>Србија</string>
 		<key>phone_code</key>
 		<string>381</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Belgrade',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4357,6 +5567,12 @@
 		<string>Seychelles</string>
 		<key>phone_code</key>
 		<string>248</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Indian\/Mahe',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'SCT',tzName:'Seychelles Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4379,6 +5595,12 @@
 		<string>Sierra Leone</string>
 		<key>phone_code</key>
 		<string>232</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Freetown',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4401,6 +5623,40 @@
 		<string>Singapore</string>
 		<key>phone_code</key>
 		<string>65</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Singapore',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'SGT',tzName:'Singapore Time'}]</string>
+	</dict>
+	<dict>
+		<key>capital</key>
+		<string>Philipsburg</string>
+		<key>currency</key>
+		<string>ANG</string>
+		<key>emoji</key>
+		<string>🇸🇽</string>
+		<key>emojiU</key>
+		<string>U+1F1F8 U+1F1FD</string>
+		<key>id</key>
+		<string>250</string>
+		<key>iso2</key>
+		<string>SX</string>
+		<key>iso3</key>
+		<string>SXM</string>
+		<key>name</key>
+		<string>Sint Maarten (Dutch part)</string>
+		<key>native</key>
+		<string>Sint Maarten</string>
+		<key>phone_code</key>
+		<string>1721</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Anguilla',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4423,6 +5679,12 @@
 		<string>Slovensko</string>
 		<key>phone_code</key>
 		<string>421</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Bratislava',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4445,6 +5707,12 @@
 		<string>Slovenija</string>
 		<key>phone_code</key>
 		<string>386</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Ljubljana',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4467,6 +5735,12 @@
 		<string>Solomon Islands</string>
 		<key>phone_code</key>
 		<string>677</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Melanesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Guadalcanal',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'SBT',tzName:'Solomon Islands Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4489,6 +5763,12 @@
 		<string>Soomaaliya</string>
 		<key>phone_code</key>
 		<string>252</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Mogadishu',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4511,6 +5791,12 @@
 		<string>South Africa</string>
 		<key>phone_code</key>
 		<string>27</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Southern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Johannesburg',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'SAST',tzName:'South African Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4533,6 +5819,12 @@
 		<string>South Georgia</string>
 		<key>phone_code</key>
 		<string></string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Atlantic\/South_Georgia',gmtOffset:-7200,gmtOffsetName:'UTC-02:00',abbreviation:'GST',tzName:'South Georgia and the South Sandwich Islands Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4555,6 +5847,12 @@
 		<string>South Sudan</string>
 		<key>phone_code</key>
 		<string>211</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Middle Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Juba',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4577,6 +5875,12 @@
 		<string>España</string>
 		<key>phone_code</key>
 		<string>34</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Ceuta',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'},{zoneName:'Atlantic\/Canary',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'WET',tzName:'Western European Time'},{zoneName:'Europe\/Madrid',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4599,6 +5903,12 @@
 		<string>śrī laṃkāva</string>
 		<key>phone_code</key>
 		<string>94</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Southern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Colombo',gmtOffset:19800,gmtOffsetName:'UTC+05:30',abbreviation:'IST',tzName:'Indian Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4621,6 +5931,12 @@
 		<string>السودان</string>
 		<key>phone_code</key>
 		<string>249</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Northern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Khartoum',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EAT',tzName:'Eastern African Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4643,6 +5959,12 @@
 		<string>Suriname</string>
 		<key>phone_code</key>
 		<string>597</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Paramaribo',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'SRT',tzName:'Suriname Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4665,6 +5987,12 @@
 		<string>Svalbard og Jan Mayen</string>
 		<key>phone_code</key>
 		<string>47</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Arctic\/Longyearbyen',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4687,6 +6015,12 @@
 		<string>Swaziland</string>
 		<key>phone_code</key>
 		<string>268</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Southern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Mbabane',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'SAST',tzName:'South African Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4709,6 +6043,12 @@
 		<string>Sverige</string>
 		<key>phone_code</key>
 		<string>46</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Stockholm',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4731,6 +6071,12 @@
 		<string>Schweiz</string>
 		<key>phone_code</key>
 		<string>41</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Western Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Zurich',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4753,6 +6099,12 @@
 		<string>سوريا</string>
 		<key>phone_code</key>
 		<string>963</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Damascus',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4775,6 +6127,12 @@
 		<string>臺灣</string>
 		<key>phone_code</key>
 		<string>886</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Taipei',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'CST',tzName:'China Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4797,6 +6155,12 @@
 		<string>Тоҷикистон</string>
 		<key>phone_code</key>
 		<string>992</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Central Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Dushanbe',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'TJT',tzName:'Tajikistan Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4819,6 +6183,12 @@
 		<string>Tanzania</string>
 		<key>phone_code</key>
 		<string>255</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Dar_es_Salaam',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4841,6 +6211,12 @@
 		<string>ประเทศไทย</string>
 		<key>phone_code</key>
 		<string>66</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Bangkok',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'ICT',tzName:'Indochina Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4863,6 +6239,12 @@
 		<string>Togo</string>
 		<key>phone_code</key>
 		<string>228</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Western Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Lome',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4885,6 +6267,12 @@
 		<string>Tokelau</string>
 		<key>phone_code</key>
 		<string>690</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Fakaofo',gmtOffset:46800,gmtOffsetName:'UTC+13:00',abbreviation:'TKT',tzName:'Tokelau Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4907,6 +6295,12 @@
 		<string>Tonga</string>
 		<key>phone_code</key>
 		<string>676</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Tongatapu',gmtOffset:46800,gmtOffsetName:'UTC+13:00',abbreviation:'TOT',tzName:'Tonga Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4929,6 +6323,12 @@
 		<string>Trinidad and Tobago</string>
 		<key>phone_code</key>
 		<string>+1-868</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Port_of_Spain',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4951,6 +6351,12 @@
 		<string>تونس</string>
 		<key>phone_code</key>
 		<string>216</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Northern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Tunis',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4973,6 +6379,12 @@
 		<string>Türkiye</string>
 		<key>phone_code</key>
 		<string>90</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Istanbul',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -4995,6 +6407,12 @@
 		<string>Türkmenistan</string>
 		<key>phone_code</key>
 		<string>993</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Central Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Ashgabat',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'TMT',tzName:'Turkmenistan Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5017,6 +6435,12 @@
 		<string>Turks and Caicos Islands</string>
 		<key>phone_code</key>
 		<string>+1-649</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Grand_Turk',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5039,6 +6463,12 @@
 		<string>Tuvalu</string>
 		<key>phone_code</key>
 		<string>688</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Funafuti',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'TVT',tzName:'Tuvalu Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5061,6 +6491,12 @@
 		<string>Uganda</string>
 		<key>phone_code</key>
 		<string>256</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Kampala',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'EAT',tzName:'East Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5083,6 +6519,12 @@
 		<string>Україна</string>
 		<key>phone_code</key>
 		<string>380</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Eastern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Kiev',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'},{zoneName:'Europe\/Simferopol',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'MSK',tzName:'Moscow Time'},{zoneName:'Europe\/Uzhgorod',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'},{zoneName:'Europe\/Zaporozhye',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'EET',tzName:'Eastern European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5105,6 +6547,12 @@
 		<string>دولة الإمارات العربية المتحدة</string>
 		<key>phone_code</key>
 		<string>971</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Dubai',gmtOffset:14400,gmtOffsetName:'UTC+04:00',abbreviation:'GST',tzName:'Gulf Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5127,6 +6575,12 @@
 		<string>United Kingdom</string>
 		<key>phone_code</key>
 		<string>44</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Northern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/London',gmtOffset:0,gmtOffsetName:'UTC\u00b100',abbreviation:'GMT',tzName:'Greenwich Mean Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5149,6 +6603,12 @@
 		<string>United States</string>
 		<key>phone_code</key>
 		<string>1</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Northern America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Adak',gmtOffset:-36000,gmtOffsetName:'UTC-10:00',abbreviation:'HST',tzName:'Hawaii\u2013Aleutian Standard Time'},{zoneName:'America\/Anchorage',gmtOffset:-32400,gmtOffsetName:'UTC-09:00',abbreviation:'AKST',tzName:'Alaska Standard Time'},{zoneName:'America\/Boise',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Chicago',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Denver',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Detroit',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Indiana\/Indianapolis',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Indiana\/Knox',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Indiana\/Marengo',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Indiana\/Petersburg',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Indiana\/Tell_City',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Indiana\/Vevay',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Indiana\/Vincennes',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Indiana\/Winamac',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Juneau',gmtOffset:-32400,gmtOffsetName:'UTC-09:00',abbreviation:'AKST',tzName:'Alaska Standard Time'},{zoneName:'America\/Kentucky\/Louisville',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Kentucky\/Monticello',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Los_Angeles',gmtOffset:-28800,gmtOffsetName:'UTC-08:00',abbreviation:'PST',tzName:'Pacific Standard Time (North America'},{zoneName:'America\/Menominee',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Metlakatla',gmtOffset:-32400,gmtOffsetName:'UTC-09:00',abbreviation:'AKST',tzName:'Alaska Standard Time'},{zoneName:'America\/New_York',gmtOffset:-18000,gmtOffsetName:'UTC-05:00',abbreviation:'EST',tzName:'Eastern Standard Time (North America'},{zoneName:'America\/Nome',gmtOffset:-32400,gmtOffsetName:'UTC-09:00',abbreviation:'AKST',tzName:'Alaska Standard Time'},{zoneName:'America\/North_Dakota\/Beulah',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/North_Dakota\/Center',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/North_Dakota\/New_Salem',gmtOffset:-21600,gmtOffsetName:'UTC-06:00',abbreviation:'CST',tzName:'Central Standard Time (North America'},{zoneName:'America\/Phoenix',gmtOffset:-25200,gmtOffsetName:'UTC-07:00',abbreviation:'MST',tzName:'Mountain Standard Time (North America'},{zoneName:'America\/Sitka',gmtOffset:-32400,gmtOffsetName:'UTC-09:00',abbreviation:'AKST',tzName:'Alaska Standard Time'},{zoneName:'America\/Yakutat',gmtOffset:-32400,gmtOffsetName:'UTC-09:00',abbreviation:'AKST',tzName:'Alaska Standard Time'},{zoneName:'Pacific\/Honolulu',gmtOffset:-36000,gmtOffsetName:'UTC-10:00',abbreviation:'HST',tzName:'Hawaii\u2013Aleutian Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5171,6 +6631,12 @@
 		<string>United States Minor Outlying Islands</string>
 		<key>phone_code</key>
 		<string>1</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Northern America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Midway',gmtOffset:-39600,gmtOffsetName:'UTC-11:00',abbreviation:'SST',tzName:'Samoa Standard Time'},{zoneName:'Pacific\/Wake',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'WAKT',tzName:'Wake Island Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5193,6 +6659,12 @@
 		<string>Uruguay</string>
 		<key>phone_code</key>
 		<string>598</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Montevideo',gmtOffset:-10800,gmtOffsetName:'UTC-03:00',abbreviation:'UYT',tzName:'Uruguay Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5215,6 +6687,12 @@
 		<string>O‘zbekiston</string>
 		<key>phone_code</key>
 		<string>998</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Central Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Samarkand',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'UZT',tzName:'Uzbekistan Time'},{zoneName:'Asia\/Tashkent',gmtOffset:18000,gmtOffsetName:'UTC+05:00',abbreviation:'UZT',tzName:'Uzbekistan Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5237,6 +6715,12 @@
 		<string>Vanuatu</string>
 		<key>phone_code</key>
 		<string>678</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Melanesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Efate',gmtOffset:39600,gmtOffsetName:'UTC+11:00',abbreviation:'VUT',tzName:'Vanuatu Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5259,6 +6743,12 @@
 		<string>Vaticano</string>
 		<key>phone_code</key>
 		<string>379</string>
+		<key>region</key>
+		<string>Europe</string>
+		<key>subregion</key>
+		<string>Southern Europe</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Europe\/Vatican',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'CET',tzName:'Central European Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5281,6 +6771,12 @@
 		<string>Venezuela</string>
 		<key>phone_code</key>
 		<string>58</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>South America</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Caracas',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'VET',tzName:'Venezuelan Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5303,6 +6799,12 @@
 		<string>Việt Nam</string>
 		<key>phone_code</key>
 		<string>84</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>South-Eastern Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Ho_Chi_Minh',gmtOffset:25200,gmtOffsetName:'UTC+07:00',abbreviation:'ICT',tzName:'Indochina Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5325,6 +6827,12 @@
 		<string>British Virgin Islands</string>
 		<key>phone_code</key>
 		<string>+1-284</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/Tortola',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5347,6 +6855,12 @@
 		<string>United States Virgin Islands</string>
 		<key>phone_code</key>
 		<string>+1-340</string>
+		<key>region</key>
+		<string>Americas</string>
+		<key>subregion</key>
+		<string>Caribbean</string>
+		<key>timezones</key>
+		<string>[{zoneName:'America\/St_Thomas',gmtOffset:-14400,gmtOffsetName:'UTC-04:00',abbreviation:'AST',tzName:'Atlantic Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5369,6 +6883,12 @@
 		<string>Wallis et Futuna</string>
 		<key>phone_code</key>
 		<string>681</string>
+		<key>region</key>
+		<string>Oceania</string>
+		<key>subregion</key>
+		<string>Polynesia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Pacific\/Wallis',gmtOffset:43200,gmtOffsetName:'UTC+12:00',abbreviation:'WFT',tzName:'Wallis &amp; Futuna Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5391,6 +6911,12 @@
 		<string>الصحراء الغربية</string>
 		<key>phone_code</key>
 		<string>212</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Northern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/El_Aaiun',gmtOffset:3600,gmtOffsetName:'UTC+01:00',abbreviation:'WEST',tzName:'Western European Summer Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5413,6 +6939,12 @@
 		<string>اليَمَن</string>
 		<key>phone_code</key>
 		<string>967</string>
+		<key>region</key>
+		<string>Asia</string>
+		<key>subregion</key>
+		<string>Western Asia</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Asia\/Aden',gmtOffset:10800,gmtOffsetName:'UTC+03:00',abbreviation:'AST',tzName:'Arabia Standard Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5435,6 +6967,12 @@
 		<string>Zambia</string>
 		<key>phone_code</key>
 		<string>260</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Lusaka',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 	<dict>
 		<key>capital</key>
@@ -5457,6 +6995,12 @@
 		<string>Zimbabwe</string>
 		<key>phone_code</key>
 		<string>263</string>
+		<key>region</key>
+		<string>Africa</string>
+		<key>subregion</key>
+		<string>Eastern Africa</string>
+		<key>timezones</key>
+		<string>[{zoneName:'Africa\/Harare',gmtOffset:7200,gmtOffsetName:'UTC+02:00',abbreviation:'CAT',tzName:'Central Africa Time'}]</string>
 	</dict>
 </array>
 </plist>

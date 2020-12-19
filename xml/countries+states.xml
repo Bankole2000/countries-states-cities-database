@@ -7,6 +7,18 @@
     <phone_code>93</phone_code>
     <capital>Kabul</capital>
     <currency>AFN</currency>
+    <native>افغانستان</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kabul</zoneName>
+      <gmtOffset>16200</gmtOffset>
+      <gmtOffsetName>UTC+04:30</gmtOffsetName>
+      <abbreviation>AFT</abbreviation>
+      <tzName>Afghanistan Time</tzName>
+    </timezones>
+    <emoji>🇦🇫</emoji>
+    <emojiU>U+1F1E6 U+1F1EB</emojiU>
     <states>
       <id>3901</id>
       <name>Badakhshan</name>
@@ -180,6 +192,18 @@
     <phone_code>+358-18</phone_code>
     <capital>Mariehamn</capital>
     <currency>EUR</currency>
+    <native>Åland</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Mariehamn</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇦🇽</emoji>
+    <emojiU>U+1F1E6 U+1F1FD</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -189,6 +213,18 @@
     <phone_code>355</phone_code>
     <capital>Tirana</capital>
     <currency>ALL</currency>
+    <native>Shqipëria</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Tirane</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇦🇱</emoji>
+    <emojiU>U+1F1E6 U+1F1F1</emojiU>
     <states>
       <id>603</id>
       <name>Berat County</name>
@@ -432,6 +468,18 @@
     <phone_code>213</phone_code>
     <capital>Algiers</capital>
     <currency>DZD</currency>
+    <native>الجزائر</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Algiers</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇩🇿</emoji>
+    <emojiU>U+1F1E9 U+1F1FF</emojiU>
     <states>
       <id>1118</id>
       <name>Adrar Province</name>
@@ -675,6 +723,18 @@
     <phone_code>+1-684</phone_code>
     <capital>Pago Pago</capital>
     <currency>USD</currency>
+    <native>American Samoa</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Pago_Pago</zoneName>
+      <gmtOffset>-39600</gmtOffset>
+      <gmtOffsetName>UTC-11:00</gmtOffsetName>
+      <abbreviation>SST</abbreviation>
+      <tzName>Samoa Standard Time</tzName>
+    </timezones>
+    <emoji>🇦🇸</emoji>
+    <emojiU>U+1F1E6 U+1F1F8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -684,6 +744,18 @@
     <phone_code>376</phone_code>
     <capital>Andorra la Vella</capital>
     <currency>EUR</currency>
+    <native>Andorra</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Andorra</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇦🇩</emoji>
+    <emojiU>U+1F1E6 U+1F1E9</emojiU>
     <states>
       <id>488</id>
       <name>Andorra la Vella</name>
@@ -727,6 +799,18 @@
     <phone_code>244</phone_code>
     <capital>Luanda</capital>
     <currency>AOA</currency>
+    <native>Angola</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Luanda</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇦🇴</emoji>
+    <emojiU>U+1F1E6 U+1F1F4</emojiU>
     <states>
       <id>221</id>
       <name>Bengo Province</name>
@@ -820,6 +904,18 @@
     <phone_code>+1-264</phone_code>
     <capital>The Valley</capital>
     <currency>XCD</currency>
+    <native>Anguilla</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Anguilla</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇦🇮</emoji>
+    <emojiU>U+1F1E6 U+1F1EE</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -829,6 +925,81 @@
     <phone_code></phone_code>
     <capital></capital>
     <currency></currency>
+    <native>Antarctica</native>
+    <region>Polar</region>
+    <subregion></subregion>
+    <timezones>
+      <zoneName>Antarctica/Casey</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AWST</abbreviation>
+      <tzName>Australian Western Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Davis</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>DAVT</abbreviation>
+      <tzName>Davis Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/DumontDUrville</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>DDUT</abbreviation>
+      <tzName>Dumont d'Urville Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Mawson</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>MAWT</abbreviation>
+      <tzName>Mawson Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/McMurdo</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>NZDT</abbreviation>
+      <tzName>New Zealand Daylight Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Palmer</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>CLST</abbreviation>
+      <tzName>Chile Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Rothera</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ROTT</abbreviation>
+      <tzName>Rothera Research Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Syowa</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>SYOT</abbreviation>
+      <tzName>Showa Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Troll</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Vostok</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>VOST</abbreviation>
+      <tzName>Vostok Station Time</tzName>
+    </timezones>
+    <emoji>🇦🇶</emoji>
+    <emojiU>U+1F1E6 U+1F1F6</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -838,6 +1009,18 @@
     <phone_code>+1-268</phone_code>
     <capital>St. John's</capital>
     <currency>XCD</currency>
+    <native>Antigua and Barbuda</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Antigua</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇦🇬</emoji>
+    <emojiU>U+1F1E6 U+1F1EC</emojiU>
     <states>
       <id>3708</id>
       <name>Barbuda</name>
@@ -886,6 +1069,95 @@
     <phone_code>54</phone_code>
     <capital>Buenos Aires</capital>
     <currency>ARS</currency>
+    <native>Argentina</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Argentina/Buenos_Aires</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Catamarca</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Cordoba</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Jujuy</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/La_Rioja</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Mendoza</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Rio_Gallegos</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Salta</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/San_Juan</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/San_Luis</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Tucuman</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Ushuaia</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <emoji>🇦🇷</emoji>
+    <emojiU>U+1F1E6 U+1F1F7</emojiU>
     <states>
       <id>4880</id>
       <name>Autonomous City Of Buenos Aires</name>
@@ -1014,6 +1286,18 @@
     <phone_code>374</phone_code>
     <capital>Yerevan</capital>
     <currency>AMD</currency>
+    <native>Հայաստան</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Yerevan</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Armenia Time</tzName>
+    </timezones>
+    <emoji>🇦🇲</emoji>
+    <emojiU>U+1F1E6 U+1F1F2</emojiU>
     <states>
       <id>2023</id>
       <name>Aragatsotn Region</name>
@@ -1077,6 +1361,18 @@
     <phone_code>297</phone_code>
     <capital>Oranjestad</capital>
     <currency>AWG</currency>
+    <native>Aruba</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Aruba</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇦🇼</emoji>
+    <emojiU>U+1F1E6 U+1F1FC</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -1086,6 +1382,102 @@
     <phone_code>61</phone_code>
     <capital>Canberra</capital>
     <currency>AUD</currency>
+    <native>Australia</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Antarctica/Macquarie</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>MIST</abbreviation>
+      <tzName>Macquarie Island Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Adelaide</zoneName>
+      <gmtOffset>37800</gmtOffset>
+      <gmtOffsetName>UTC+10:30</gmtOffsetName>
+      <abbreviation>ACDT</abbreviation>
+      <tzName>Australian Central Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Brisbane</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>AEST</abbreviation>
+      <tzName>Australian Eastern Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Broken_Hill</zoneName>
+      <gmtOffset>37800</gmtOffset>
+      <gmtOffsetName>UTC+10:30</gmtOffsetName>
+      <abbreviation>ACDT</abbreviation>
+      <tzName>Australian Central Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Currie</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Darwin</zoneName>
+      <gmtOffset>34200</gmtOffset>
+      <gmtOffsetName>UTC+09:30</gmtOffsetName>
+      <abbreviation>ACST</abbreviation>
+      <tzName>Australian Central Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Eucla</zoneName>
+      <gmtOffset>31500</gmtOffset>
+      <gmtOffsetName>UTC+08:45</gmtOffsetName>
+      <abbreviation>ACWST</abbreviation>
+      <tzName>Australian Central Western Standard Time (Unofficial)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Hobart</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Lindeman</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>AEST</abbreviation>
+      <tzName>Australian Eastern Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Lord_Howe</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>LHST</abbreviation>
+      <tzName>Lord Howe Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Melbourne</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Perth</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>AWST</abbreviation>
+      <tzName>Australian Western Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Sydney</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
+    <emoji>🇦🇺</emoji>
+    <emojiU>U+1F1E6 U+1F1FA</emojiU>
     <states>
       <id>3907</id>
       <name>Australian Capital Territory</name>
@@ -1134,6 +1526,18 @@
     <phone_code>43</phone_code>
     <capital>Vienna</capital>
     <currency>EUR</currency>
+    <native>Österreich</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vienna</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇦🇹</emoji>
+    <emojiU>U+1F1E6 U+1F1F9</emojiU>
     <states>
       <id>2062</id>
       <name>Burgenland</name>
@@ -1187,6 +1591,18 @@
     <phone_code>994</phone_code>
     <capital>Baku</capital>
     <currency>AZN</currency>
+    <native>Azərbaycan</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Baku</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>AZT</abbreviation>
+      <tzName>Azerbaijan Time</tzName>
+    </timezones>
+    <emoji>🇦🇿</emoji>
+    <emojiU>U+1F1E6 U+1F1FF</emojiU>
     <states>
       <id>540</id>
       <name>Absheron District</name>
@@ -1570,6 +1986,18 @@
     <phone_code>+1-242</phone_code>
     <capital>Nassau</capital>
     <currency>BSD</currency>
+    <native>Bahamas</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Nassau</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America)</tzName>
+    </timezones>
+    <emoji>🇧🇸</emoji>
+    <emojiU>U+1F1E7 U+1F1F8</emojiU>
     <states>
       <id>3601</id>
       <name>Acklins</name>
@@ -1788,6 +2216,18 @@
     <phone_code>973</phone_code>
     <capital>Manama</capital>
     <currency>BHD</currency>
+    <native>‏البحرين</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Bahrain</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
+    <emoji>🇧🇭</emoji>
+    <emojiU>U+1F1E7 U+1F1ED</emojiU>
     <states>
       <id>1992</id>
       <name>Capital Governorate</name>
@@ -1821,6 +2261,18 @@
     <phone_code>880</phone_code>
     <capital>Dhaka</capital>
     <currency>BDT</currency>
+    <native>Bangladesh</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dhaka</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>BDT</abbreviation>
+      <tzName>Bangladesh Standard Time</tzName>
+    </timezones>
+    <emoji>🇧🇩</emoji>
+    <emojiU>U+1F1E7 U+1F1E9</emojiU>
     <states>
       <id>796</id>
       <name>Bagerhat District</name>
@@ -2179,6 +2631,18 @@
     <phone_code>+1-246</phone_code>
     <capital>Bridgetown</capital>
     <currency>BBD</currency>
+    <native>Barbados</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Barbados</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇧🇧</emoji>
+    <emojiU>U+1F1E7 U+1F1E7</emojiU>
     <states>
       <id>1228</id>
       <name>Christ Church</name>
@@ -2242,6 +2706,18 @@
     <phone_code>375</phone_code>
     <capital>Minsk</capital>
     <currency>BYN</currency>
+    <native>Белару́сь</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Minsk</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <emoji>🇧🇾</emoji>
+    <emojiU>U+1F1E7 U+1F1FE</emojiU>
     <states>
       <id>2959</id>
       <name>Brest Region</name>
@@ -2285,6 +2761,18 @@
     <phone_code>32</phone_code>
     <capital>Brussels</capital>
     <currency>EUR</currency>
+    <native>België</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Brussels</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇧🇪</emoji>
+    <emojiU>U+1F1E7 U+1F1EA</emojiU>
     <states>
       <id>1381</id>
       <name>Antwerp</name>
@@ -2358,6 +2846,18 @@
     <phone_code>501</phone_code>
     <capital>Belmopan</capital>
     <currency>BZD</currency>
+    <native>Belize</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Belize</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America)</tzName>
+    </timezones>
+    <emoji>🇧🇿</emoji>
+    <emojiU>U+1F1E7 U+1F1FF</emojiU>
     <states>
       <id>264</id>
       <name>Belize District</name>
@@ -2396,6 +2896,18 @@
     <phone_code>229</phone_code>
     <capital>Porto-Novo</capital>
     <currency>XOF</currency>
+    <native>Bénin</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Porto-Novo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇧🇯</emoji>
+    <emojiU>U+1F1E7 U+1F1EF</emojiU>
     <states>
       <id>3077</id>
       <name>Alibori Department</name>
@@ -2464,6 +2976,18 @@
     <phone_code>+1-441</phone_code>
     <capital>Hamilton</capital>
     <currency>BMD</currency>
+    <native>Bermuda</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>Atlantic/Bermuda</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇧🇲</emoji>
+    <emojiU>U+1F1E7 U+1F1F2</emojiU>
     <states>
       <id>4860</id>
       <name>Devonshire Parish</name>
@@ -2527,6 +3051,18 @@
     <phone_code>975</phone_code>
     <capital>Thimphu</capital>
     <currency>BTN</currency>
+    <native>ʼbrug-yul</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Thimphu</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>BTT</abbreviation>
+      <tzName>Bhutan Time</tzName>
+    </timezones>
+    <emoji>🇧🇹</emoji>
+    <emojiU>U+1F1E7 U+1F1F9</emojiU>
     <states>
       <id>240</id>
       <name>Bumthang District</name>
@@ -2630,6 +3166,18 @@
     <phone_code>591</phone_code>
     <capital>Sucre</capital>
     <currency>BOB</currency>
+    <native>Bolivia</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/La_Paz</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>BOT</abbreviation>
+      <tzName>Bolivia Time</tzName>
+    </timezones>
+    <emoji>🇧🇴</emoji>
+    <emojiU>U+1F1E7 U+1F1F4</emojiU>
     <states>
       <id>3375</id>
       <name>Beni Department</name>
@@ -2677,12 +3225,45 @@
     </states>
   </country_state>
   <country_state>
+    <name>Bonaire, Sint Eustatius and Saba</name>
+    <iso3>BES</iso3>
+    <iso2>BQ</iso2>
+    <phone_code>599</phone_code>
+    <capital>Kralendijk</capital>
+    <currency>USD</currency>
+    <native>Caribisch Nederland</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Anguilla</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇧🇶</emoji>
+    <emojiU>U+1F1E7 U+1F1F6</emojiU>
+    <states/>
+  </country_state>
+  <country_state>
     <name>Bosnia and Herzegovina</name>
     <iso3>BIH</iso3>
     <iso2>BA</iso2>
     <phone_code>387</phone_code>
     <capital>Sarajevo</capital>
     <currency>BAM</currency>
+    <native>Bosna i Hercegovina</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Sarajevo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇧🇦</emoji>
+    <emojiU>U+1F1E7 U+1F1E6</emojiU>
     <states>
       <id>472</id>
       <name>Bosnian Podrinje Canton</name>
@@ -2756,6 +3337,18 @@
     <phone_code>267</phone_code>
     <capital>Gaborone</capital>
     <currency>BWP</currency>
+    <native>Botswana</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Gaborone</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇧🇼</emoji>
+    <emojiU>U+1F1E7 U+1F1FC</emojiU>
     <states>
       <id>3067</id>
       <name>Central District</name>
@@ -2811,9 +3404,21 @@
     <name>Bouvet Island</name>
     <iso3>BVT</iso3>
     <iso2>BV</iso2>
-    <phone_code></phone_code>
+    <phone_code>0055</phone_code>
     <capital></capital>
     <currency>NOK</currency>
+    <native>Bouvetøya</native>
+    <region></region>
+    <subregion></subregion>
+    <timezones>
+      <zoneName>Europe/Oslo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇧🇻</emoji>
+    <emojiU>U+1F1E7 U+1F1FB</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -2823,6 +3428,123 @@
     <phone_code>55</phone_code>
     <capital>Brasilia</capital>
     <currency>BRL</currency>
+    <native>Brasil</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Araguaina</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Bahia</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Belem</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Boa_Vista</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)[3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Campo_Grande</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)[3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Cuiaba</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasilia Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Eirunepe</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>ACT</abbreviation>
+      <tzName>Acre Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Fortaleza</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Maceio</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Manaus</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Noronha</zoneName>
+      <gmtOffset>-7200</gmtOffset>
+      <gmtOffsetName>UTC-02:00</gmtOffsetName>
+      <abbreviation>FNT</abbreviation>
+      <tzName>Fernando de Noronha Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Porto_Velho</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)[3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Recife</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Rio_Branco</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>ACT</abbreviation>
+      <tzName>Acre Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Santarem</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Sao_Paulo</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <emoji>🇧🇷</emoji>
+    <emojiU>U+1F1E7 U+1F1F7</emojiU>
     <states>
       <id>2012</id>
       <name>Acre</name>
@@ -2966,6 +3688,18 @@
     <phone_code>246</phone_code>
     <capital>Diego Garcia</capital>
     <currency>USD</currency>
+    <native>British Indian Ocean Territory</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Chagos</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>IOT</abbreviation>
+      <tzName>Indian Ocean Time</tzName>
+    </timezones>
+    <emoji>🇮🇴</emoji>
+    <emojiU>U+1F1EE U+1F1F4</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -2975,6 +3709,18 @@
     <phone_code>673</phone_code>
     <capital>Bandar Seri Begawan</capital>
     <currency>BND</currency>
+    <native>Negara Brunei Darussalam</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Brunei</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>BNT</abbreviation>
+      <tzName>Brunei Darussalam Time</tzName>
+    </timezones>
+    <emoji>🇧🇳</emoji>
+    <emojiU>U+1F1E7 U+1F1F3</emojiU>
     <states>
       <id>1217</id>
       <name>Belait District</name>
@@ -3003,6 +3749,18 @@
     <phone_code>359</phone_code>
     <capital>Sofia</capital>
     <currency>BGN</currency>
+    <native>България</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Sofia</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇧🇬</emoji>
+    <emojiU>U+1F1E7 U+1F1EC</emojiU>
     <states>
       <id>4699</id>
       <name>Blagoevgrad Province</name>
@@ -3079,6 +3837,11 @@
       <state_code>18</state_code>
     </states>
     <states>
+      <id>4882</id>
+      <name>Shumen</name>
+      <state_code>27</state_code>
+    </states>
+    <states>
       <id>4708</id>
       <name>Silistra Province</name>
       <state_code>19</state_code>
@@ -3146,6 +3909,18 @@
     <phone_code>226</phone_code>
     <capital>Ouagadougou</capital>
     <currency>XOF</currency>
+    <native>Burkina Faso</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Ouagadougou</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇧🇫</emoji>
+    <emojiU>U+1F1E7 U+1F1EB</emojiU>
     <states>
       <id>3160</id>
       <name>Balé Province</name>
@@ -3439,6 +4214,18 @@
     <phone_code>257</phone_code>
     <capital>Bujumbura</capital>
     <currency>BIF</currency>
+    <native>Burundi</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bujumbura</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇧🇮</emoji>
+    <emojiU>U+1F1E7 U+1F1EE</emojiU>
     <states>
       <id>3196</id>
       <name>Bubanza Province</name>
@@ -3537,6 +4324,18 @@
     <phone_code>855</phone_code>
     <capital>Phnom Penh</capital>
     <currency>KHR</currency>
+    <native>Kâmpŭchéa</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Phnom_Penh</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
+    <emoji>🇰🇭</emoji>
+    <emojiU>U+1F1F0 U+1F1ED</emojiU>
     <states>
       <id>3984</id>
       <name>Banteay Meanchey Province</name>
@@ -3660,6 +4459,18 @@
     <phone_code>237</phone_code>
     <capital>Yaounde</capital>
     <currency>XAF</currency>
+    <native>Cameroon</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Douala</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇨🇲</emoji>
+    <emojiU>U+1F1E8 U+1F1F2</emojiU>
     <states>
       <id>2663</id>
       <name>Adamawa</name>
@@ -3718,6 +4529,207 @@
     <phone_code>1</phone_code>
     <capital>Ottawa</capital>
     <currency>CAD</currency>
+    <native>Canada</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Atikokan</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Blanc-Sablon</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Cambridge_Bay</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Creston</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Dawson</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Dawson_Creek</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Edmonton</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Fort_Nelson</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Glace_Bay</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Goose_Bay</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Halifax</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Inuvik</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Iqaluit</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Moncton</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Nipigon</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Pangnirtung</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Rainy_River</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Rankin_Inlet</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Regina</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Resolute</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/St_Johns</zoneName>
+      <gmtOffset>-12600</gmtOffset>
+      <gmtOffsetName>UTC-03:30</gmtOffsetName>
+      <abbreviation>NST</abbreviation>
+      <tzName>Newfoundland Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Swift_Current</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Thunder_Bay</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Toronto</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Vancouver</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Whitehorse</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Winnipeg</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Yellowknife</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇨🇦</emoji>
+    <emojiU>U+1F1E8 U+1F1E6</emojiU>
     <states>
       <id>872</id>
       <name>Alberta</name>
@@ -3791,6 +4803,18 @@
     <phone_code>238</phone_code>
     <capital>Praia</capital>
     <currency>CVE</currency>
+    <native>Cabo Verde</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Atlantic/Cape_Verde</zoneName>
+      <gmtOffset>-3600</gmtOffset>
+      <gmtOffsetName>UTC-01:00</gmtOffsetName>
+      <abbreviation>CVT</abbreviation>
+      <tzName>Cape Verde Time</tzName>
+    </timezones>
+    <emoji>🇨🇻</emoji>
+    <emojiU>U+1F1E8 U+1F1FB</emojiU>
     <states>
       <id>2994</id>
       <name>Barlavento Islands</name>
@@ -3914,6 +4938,18 @@
     <phone_code>+1-345</phone_code>
     <capital>George Town</capital>
     <currency>KYD</currency>
+    <native>Cayman Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Cayman</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇰🇾</emoji>
+    <emojiU>U+1F1F0 U+1F1FE</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -3923,6 +4959,18 @@
     <phone_code>236</phone_code>
     <capital>Bangui</capital>
     <currency>XAF</currency>
+    <native>Ködörösêse tî Bêafrîka</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bangui</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇨🇫</emoji>
+    <emojiU>U+1F1E8 U+1F1EB</emojiU>
     <states>
       <id>1259</id>
       <name>Bamingui-Bangoran Prefecture</name>
@@ -4016,6 +5064,18 @@
     <phone_code>235</phone_code>
     <capital>N'Djamena</capital>
     <currency>XAF</currency>
+    <native>Tchad</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Ndjamena</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇹🇩</emoji>
+    <emojiU>U+1F1F9 U+1F1E9</emojiU>
     <states>
       <id>3583</id>
       <name>Bahr el Gazel</name>
@@ -4139,6 +5199,32 @@
     <phone_code>56</phone_code>
     <capital>Santiago</capital>
     <currency>CLP</currency>
+    <native>Chile</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Punta_Arenas</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>CLST</abbreviation>
+      <tzName>Chile Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Santiago</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>CLST</abbreviation>
+      <tzName>Chile Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Easter</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EASST</abbreviation>
+      <tzName>Easter Island Summer Time</tzName>
+    </timezones>
+    <emoji>🇨🇱</emoji>
+    <emojiU>U+1F1E8 U+1F1F1</emojiU>
     <states>
       <id>2832</id>
       <name>Antofagasta Region</name>
@@ -4227,6 +5313,25 @@
     <phone_code>86</phone_code>
     <capital>Beijing</capital>
     <currency>CNY</currency>
+    <native>中国</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Shanghai</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Urumqi</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>XJT</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
+    <emoji>🇨🇳</emoji>
+    <emojiU>U+1F1E8 U+1F1F3</emojiU>
     <states>
       <id>2251</id>
       <name>Anhui</name>
@@ -4405,6 +5510,18 @@
     <phone_code>61</phone_code>
     <capital>Flying Fish Cove</capital>
     <currency>AUD</currency>
+    <native>Christmas Island</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Indian/Christmas</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>CXT</abbreviation>
+      <tzName>Christmas Island Time</tzName>
+    </timezones>
+    <emoji>🇨🇽</emoji>
+    <emojiU>U+1F1E8 U+1F1FD</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -4414,6 +5531,18 @@
     <phone_code>61</phone_code>
     <capital>West Island</capital>
     <currency>AUD</currency>
+    <native>Cocos (Keeling) Islands</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Indian/Cocos</zoneName>
+      <gmtOffset>23400</gmtOffset>
+      <gmtOffsetName>UTC+06:30</gmtOffsetName>
+      <abbreviation>CCT</abbreviation>
+      <tzName>Cocos Islands Time</tzName>
+    </timezones>
+    <emoji>🇨🇨</emoji>
+    <emojiU>U+1F1E8 U+1F1E8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -4423,6 +5552,18 @@
     <phone_code>57</phone_code>
     <capital>Bogota</capital>
     <currency>COP</currency>
+    <native>Colombia</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Bogota</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>COT</abbreviation>
+      <tzName>Colombia Time</tzName>
+    </timezones>
+    <emoji>🇨🇴</emoji>
+    <emojiU>U+1F1E8 U+1F1F4</emojiU>
     <states>
       <id>2895</id>
       <name>Amazonas Department</name>
@@ -4591,6 +5732,18 @@
     <phone_code>269</phone_code>
     <capital>Moroni</capital>
     <currency>KMF</currency>
+    <native>Komori</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Comoro</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇰🇲</emoji>
+    <emojiU>U+1F1F0 U+1F1F2</emojiU>
     <states>
       <id>2821</id>
       <name>Anjouan</name>
@@ -4614,6 +5767,18 @@
     <phone_code>242</phone_code>
     <capital>Brazzaville</capital>
     <currency>XAF</currency>
+    <native>République du Congo</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Brazzaville</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇨🇬</emoji>
+    <emojiU>U+1F1E8 U+1F1EC</emojiU>
     <states>
       <id>2866</id>
       <name>Bouenza Department</name>
@@ -4682,6 +5847,25 @@
     <phone_code>243</phone_code>
     <capital>Kinshasa</capital>
     <currency>CDF</currency>
+    <native>République démocratique du Congo</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Kinshasa</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Africa/Lubumbashi</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇨🇩</emoji>
+    <emojiU>U+1F1E8 U+1F1E9</emojiU>
     <states>
       <id>2754</id>
       <name>Bandundu Province</name>
@@ -4830,6 +6014,18 @@
     <phone_code>682</phone_code>
     <capital>Avarua</capital>
     <currency>NZD</currency>
+    <native>Cook Islands</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Rarotonga</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>CKT</abbreviation>
+      <tzName>Cook Island Time</tzName>
+    </timezones>
+    <emoji>🇨🇰</emoji>
+    <emojiU>U+1F1E8 U+1F1F0</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -4839,6 +6035,18 @@
     <phone_code>506</phone_code>
     <capital>San Jose</capital>
     <currency>CRC</currency>
+    <native>Costa Rica</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Costa_Rica</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇨🇷</emoji>
+    <emojiU>U+1F1E8 U+1F1F7</emojiU>
     <states>
       <id>1215</id>
       <name>Alajuela Province</name>
@@ -4882,6 +6090,18 @@
     <phone_code>225</phone_code>
     <capital>Yamoussoukro</capital>
     <currency>XOF</currency>
+    <native></native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Abidjan</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇨🇮</emoji>
+    <emojiU>U+1F1E8 U+1F1EE</emojiU>
     <states>
       <id>2634</id>
       <name>Abidjan</name>
@@ -5045,6 +6265,18 @@
     <phone_code>385</phone_code>
     <capital>Zagreb</capital>
     <currency>HRK</currency>
+    <native>Hrvatska</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Zagreb</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇭🇷</emoji>
+    <emojiU>U+1F1ED U+1F1F7</emojiU>
     <states>
       <id>734</id>
       <name>Bjelovar-Bilogora County</name>
@@ -5153,6 +6385,18 @@
     <phone_code>53</phone_code>
     <capital>Havana</capital>
     <currency>CUP</currency>
+    <native>Cuba</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Havana</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Cuba Standard Time</tzName>
+    </timezones>
+    <emoji>🇨🇺</emoji>
+    <emojiU>U+1F1E8 U+1F1FA</emojiU>
     <states>
       <id>283</id>
       <name>Artemisa Province</name>
@@ -5235,12 +6479,52 @@
     </states>
   </country_state>
   <country_state>
+    <name>Curaçao</name>
+    <iso3>CUW</iso3>
+    <iso2>CW</iso2>
+    <phone_code>599</phone_code>
+    <capital>Willemstad</capital>
+    <currency>ANG</currency>
+    <native>Curaçao</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Curacao</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇨🇼</emoji>
+    <emojiU>U+1F1E8 U+1F1FC</emojiU>
+    <states/>
+  </country_state>
+  <country_state>
     <name>Cyprus</name>
     <iso3>CYP</iso3>
     <iso2>CY</iso2>
     <phone_code>357</phone_code>
     <capital>Nicosia</capital>
     <currency>EUR</currency>
+    <native>Κύπρος</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Asia/Famagusta</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Nicosia</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇨🇾</emoji>
+    <emojiU>U+1F1E8 U+1F1FE</emojiU>
     <states>
       <id>749</id>
       <name>Famagusta District</name>
@@ -5279,6 +6563,18 @@
     <phone_code>420</phone_code>
     <capital>Prague</capital>
     <currency>CZK</currency>
+    <native>Česká republika</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Prague</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇨🇿</emoji>
+    <emojiU>U+1F1E8 U+1F1FF</emojiU>
     <states>
       <id>4627</id>
       <name>Benešov District</name>
@@ -5822,6 +7118,18 @@
     <phone_code>45</phone_code>
     <capital>Copenhagen</capital>
     <currency>DKK</currency>
+    <native>Danmark</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Copenhagen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇩🇰</emoji>
+    <emojiU>U+1F1E9 U+1F1F0</emojiU>
     <states>
       <id>1530</id>
       <name>Capital Region of Denmark</name>
@@ -5855,6 +7163,18 @@
     <phone_code>253</phone_code>
     <capital>Djibouti</capital>
     <currency>DJF</currency>
+    <native>Djibouti</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Djibouti</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇩🇯</emoji>
+    <emojiU>U+1F1E9 U+1F1EF</emojiU>
     <states>
       <id>2933</id>
       <name>Ali Sabieh Region</name>
@@ -5893,6 +7213,18 @@
     <phone_code>+1-767</phone_code>
     <capital>Roseau</capital>
     <currency>XCD</currency>
+    <native>Dominica</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Dominica</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇩🇲</emoji>
+    <emojiU>U+1F1E9 U+1F1F2</emojiU>
     <states>
       <id>4082</id>
       <name>Saint Andrew Parish</name>
@@ -5951,6 +7283,18 @@
     <phone_code>+1-809 and 1-829</phone_code>
     <capital>Santo Domingo</capital>
     <currency>DOP</currency>
+    <native>República Dominicana</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Santo_Domingo</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇩🇴</emoji>
+    <emojiU>U+1F1E9 U+1F1F4</emojiU>
     <states>
       <id>4114</id>
       <name>Azua Province</name>
@@ -6114,6 +7458,18 @@
     <phone_code>670</phone_code>
     <capital>Dili</capital>
     <currency>USD</currency>
+    <native>Timor-Leste</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dili</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>TLT</abbreviation>
+      <tzName>Timor Leste Time</tzName>
+    </timezones>
+    <emoji>🇹🇱</emoji>
+    <emojiU>U+1F1F9 U+1F1F1</emojiU>
     <states>
       <id>4520</id>
       <name>Aileu municipality</name>
@@ -6182,6 +7538,25 @@
     <phone_code>593</phone_code>
     <capital>Quito</capital>
     <currency>USD</currency>
+    <native>Ecuador</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Guayaquil</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>ECT</abbreviation>
+      <tzName>Ecuador Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Galapagos</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>GALT</abbreviation>
+      <tzName>Galápagos Time</tzName>
+    </timezones>
+    <emoji>🇪🇨</emoji>
+    <emojiU>U+1F1EA U+1F1E8</emojiU>
     <states>
       <id>2923</id>
       <name>Azuay Province</name>
@@ -6305,6 +7680,18 @@
     <phone_code>20</phone_code>
     <capital>Cairo</capital>
     <currency>EGP</currency>
+    <native>مصر‎</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Cairo</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇪🇬</emoji>
+    <emojiU>U+1F1EA U+1F1EC</emojiU>
     <states>
       <id>3235</id>
       <name>Alexandria Governorate</name>
@@ -6443,6 +7830,18 @@
     <phone_code>503</phone_code>
     <capital>San Salvador</capital>
     <currency>USD</currency>
+    <native>El Salvador</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/El_Salvador</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇸🇻</emoji>
+    <emojiU>U+1F1F8 U+1F1FB</emojiU>
     <states>
       <id>4139</id>
       <name>Ahuachapán Department</name>
@@ -6521,6 +7920,18 @@
     <phone_code>240</phone_code>
     <capital>Malabo</capital>
     <currency>XAF</currency>
+    <native>Guinea Ecuatorial</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Malabo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇬🇶</emoji>
+    <emojiU>U+1F1EC U+1F1F6</emojiU>
     <states>
       <id>3444</id>
       <name>Annobón Province</name>
@@ -6574,6 +7985,18 @@
     <phone_code>291</phone_code>
     <capital>Asmara</capital>
     <currency>ERN</currency>
+    <native>ኤርትራ</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Asmara</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇪🇷</emoji>
+    <emojiU>U+1F1EA U+1F1F7</emojiU>
     <states>
       <id>3425</id>
       <name>Anseba Region</name>
@@ -6612,6 +8035,18 @@
     <phone_code>372</phone_code>
     <capital>Tallinn</capital>
     <currency>EUR</currency>
+    <native>Eesti</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Tallinn</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇪🇪</emoji>
+    <emojiU>U+1F1EA U+1F1EA</emojiU>
     <states>
       <id>3567</id>
       <name>Harju County</name>
@@ -6695,6 +8130,18 @@
     <phone_code>251</phone_code>
     <capital>Addis Ababa</capital>
     <currency>ETB</currency>
+    <native>ኢትዮጵያ</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Addis_Ababa</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇪🇹</emoji>
+    <emojiU>U+1F1EA U+1F1F9</emojiU>
     <states>
       <id>11</id>
       <name>Addis Ababa</name>
@@ -6758,6 +8205,18 @@
     <phone_code>500</phone_code>
     <capital>Stanley</capital>
     <currency>FKP</currency>
+    <native>Falkland Islands</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>Atlantic/Stanley</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>FKST</abbreviation>
+      <tzName>Falkland Islands Summer Time</tzName>
+    </timezones>
+    <emoji>🇫🇰</emoji>
+    <emojiU>U+1F1EB U+1F1F0</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -6767,6 +8226,18 @@
     <phone_code>298</phone_code>
     <capital>Torshavn</capital>
     <currency>DKK</currency>
+    <native>Føroyar</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Faroe</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <emoji>🇫🇴</emoji>
+    <emojiU>U+1F1EB U+1F1F4</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -6776,6 +8247,18 @@
     <phone_code>679</phone_code>
     <capital>Suva</capital>
     <currency>FJD</currency>
+    <native>Fiji</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Fiji</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>FJT</abbreviation>
+      <tzName>Fiji Time</tzName>
+    </timezones>
+    <emoji>🇫🇯</emoji>
+    <emojiU>U+1F1EB U+1F1EF</emojiU>
     <states>
       <id>1917</id>
       <name>Ba</name>
@@ -6879,6 +8362,18 @@
     <phone_code>358</phone_code>
     <capital>Helsinki</capital>
     <currency>EUR</currency>
+    <native>Suomi</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Helsinki</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇫🇮</emoji>
+    <emojiU>U+1F1EB U+1F1EE</emojiU>
     <states>
       <id>1509</id>
       <name>Åland Islands</name>
@@ -6992,6 +8487,18 @@
     <phone_code>33</phone_code>
     <capital>Paris</capital>
     <currency>EUR</currency>
+    <native>France</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Paris</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇫🇷</emoji>
+    <emojiU>U+1F1EB U+1F1F7</emojiU>
     <states>
       <id>4800</id>
       <name>Alo</name>
@@ -7210,6 +8717,18 @@
     <phone_code>594</phone_code>
     <capital>Cayenne</capital>
     <currency>EUR</currency>
+    <native>Guyane française</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Cayenne</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>GFT</abbreviation>
+      <tzName>French Guiana Time</tzName>
+    </timezones>
+    <emoji>🇬🇫</emoji>
+    <emojiU>U+1F1EC U+1F1EB</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7219,6 +8738,32 @@
     <phone_code>689</phone_code>
     <capital>Papeete</capital>
     <currency>XPF</currency>
+    <native>Polynésie française</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Gambier</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>GAMT</abbreviation>
+      <tzName>Gambier Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Marquesas</zoneName>
+      <gmtOffset>-34200</gmtOffset>
+      <gmtOffsetName>UTC-09:30</gmtOffsetName>
+      <abbreviation>MART</abbreviation>
+      <tzName>Marquesas Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Tahiti</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>TAHT</abbreviation>
+      <tzName>Tahiti Time</tzName>
+    </timezones>
+    <emoji>🇵🇫</emoji>
+    <emojiU>U+1F1F5 U+1F1EB</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7228,6 +8773,18 @@
     <phone_code></phone_code>
     <capital>Port-aux-Francais</capital>
     <currency>EUR</currency>
+    <native>Territoire des Terres australes et antarctiques fr</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Kerguelen</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>TFT</abbreviation>
+      <tzName>French Southern and Antarctic Time</tzName>
+    </timezones>
+    <emoji>🇹🇫</emoji>
+    <emojiU>U+1F1F9 U+1F1EB</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7237,6 +8794,18 @@
     <phone_code>241</phone_code>
     <capital>Libreville</capital>
     <currency>XAF</currency>
+    <native>Gabon</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Libreville</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇬🇦</emoji>
+    <emojiU>U+1F1EC U+1F1E6</emojiU>
     <states>
       <id>2727</id>
       <name>Estuaire Province</name>
@@ -7290,6 +8859,18 @@
     <phone_code>220</phone_code>
     <capital>Banjul</capital>
     <currency>GMD</currency>
+    <native>Gambia</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Banjul</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇬🇲</emoji>
+    <emojiU>U+1F1EC U+1F1F2</emojiU>
     <states>
       <id>2666</id>
       <name>Banjul</name>
@@ -7328,6 +8909,18 @@
     <phone_code>995</phone_code>
     <capital>Tbilisi</capital>
     <currency>GEL</currency>
+    <native>საქართველო</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Tbilisi</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>GET</abbreviation>
+      <tzName>Georgia Standard Time</tzName>
+    </timezones>
+    <emoji>🇬🇪</emoji>
+    <emojiU>U+1F1EC U+1F1EA</emojiU>
     <states>
       <id>900</id>
       <name>Adjara</name>
@@ -7406,6 +8999,25 @@
     <phone_code>49</phone_code>
     <capital>Berlin</capital>
     <currency>EUR</currency>
+    <native>Deutschland</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Berlin</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Busingen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇩🇪</emoji>
+    <emojiU>U+1F1E9 U+1F1EA</emojiU>
     <states>
       <id>3006</id>
       <name>Baden-Württemberg</name>
@@ -7494,6 +9106,18 @@
     <phone_code>233</phone_code>
     <capital>Accra</capital>
     <currency>GHS</currency>
+    <native>Ghana</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Accra</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇬🇭</emoji>
+    <emojiU>U+1F1EC U+1F1ED</emojiU>
     <states>
       <id>48</id>
       <name>Ashanti Region</name>
@@ -7552,6 +9176,18 @@
     <phone_code>350</phone_code>
     <capital>Gibraltar</capital>
     <currency>GIP</currency>
+    <native>Gibraltar</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Gibraltar</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇬🇮</emoji>
+    <emojiU>U+1F1EC U+1F1EE</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7561,6 +9197,18 @@
     <phone_code>30</phone_code>
     <capital>Athens</capital>
     <currency>EUR</currency>
+    <native>Ελλάδα</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Athens</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇬🇷</emoji>
+    <emojiU>U+1F1EC U+1F1F7</emojiU>
     <states>
       <id>2116</id>
       <name>Achaea Regional Unit</name>
@@ -7759,6 +9407,39 @@
     <phone_code>299</phone_code>
     <capital>Nuuk</capital>
     <currency>DKK</currency>
+    <native>Kalaallit Nunaat</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Danmarkshavn</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Nuuk</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>WGT</abbreviation>
+      <tzName>West Greenland Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Scoresbysund</zoneName>
+      <gmtOffset>-3600</gmtOffset>
+      <gmtOffsetName>UTC-01:00</gmtOffsetName>
+      <abbreviation>EGT</abbreviation>
+      <tzName>Eastern Greenland Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Thule</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇬🇱</emoji>
+    <emojiU>U+1F1EC U+1F1F1</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7768,6 +9449,18 @@
     <phone_code>+1-473</phone_code>
     <capital>St. George's</capital>
     <currency>XCD</currency>
+    <native>Grenada</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Grenada</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇬🇩</emoji>
+    <emojiU>U+1F1EC U+1F1E9</emojiU>
     <states>
       <id>3867</id>
       <name>Carriacou and Petite Martinique</name>
@@ -7811,6 +9504,18 @@
     <phone_code>590</phone_code>
     <capital>Basse-Terre</capital>
     <currency>EUR</currency>
+    <native>Guadeloupe</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Guadeloupe</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇬🇵</emoji>
+    <emojiU>U+1F1EC U+1F1F5</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7820,6 +9525,18 @@
     <phone_code>+1-671</phone_code>
     <capital>Hagatna</capital>
     <currency>USD</currency>
+    <native>Guam</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Guam</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>CHST</abbreviation>
+      <tzName>Chamorro Standard Time</tzName>
+    </timezones>
+    <emoji>🇬🇺</emoji>
+    <emojiU>U+1F1EC U+1F1FA</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7829,6 +9546,18 @@
     <phone_code>502</phone_code>
     <capital>Guatemala City</capital>
     <currency>GTQ</currency>
+    <native>Guatemala</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Guatemala</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇬🇹</emoji>
+    <emojiU>U+1F1EC U+1F1F9</emojiU>
     <states>
       <id>3671</id>
       <name>Alta Verapaz Department</name>
@@ -7942,6 +9671,18 @@
     <phone_code>+44-1481</phone_code>
     <capital>St Peter Port</capital>
     <currency>GBP</currency>
+    <native>Guernsey</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Guernsey</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇬🇬</emoji>
+    <emojiU>U+1F1EC U+1F1EC</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -7951,6 +9692,18 @@
     <phone_code>224</phone_code>
     <capital>Conakry</capital>
     <currency>GNF</currency>
+    <native>Guinée</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Conakry</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇬🇳</emoji>
+    <emojiU>U+1F1EC U+1F1F3</emojiU>
     <states>
       <id>2672</id>
       <name>Beyla Prefecture</name>
@@ -8159,6 +9912,18 @@
     <phone_code>245</phone_code>
     <capital>Bissau</capital>
     <currency>XOF</currency>
+    <native>Guiné-Bissau</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bissau</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇬🇼</emoji>
+    <emojiU>U+1F1EC U+1F1FC</emojiU>
     <states>
       <id>2720</id>
       <name>Bafatá</name>
@@ -8222,6 +9987,18 @@
     <phone_code>592</phone_code>
     <capital>Georgetown</capital>
     <currency>GYD</currency>
+    <native>Guyana</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Guyana</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>GYT</abbreviation>
+      <tzName>Guyana Time</tzName>
+    </timezones>
+    <emoji>🇬🇾</emoji>
+    <emojiU>U+1F1EC U+1F1FE</emojiU>
     <states>
       <id>2764</id>
       <name>Barima-Waini</name>
@@ -8280,6 +10057,18 @@
     <phone_code>509</phone_code>
     <capital>Port-au-Prince</capital>
     <currency>HTG</currency>
+    <native>Haïti</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Port-au-Prince</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇭🇹</emoji>
+    <emojiU>U+1F1ED U+1F1F9</emojiU>
     <states>
       <id>4123</id>
       <name>Artibonite</name>
@@ -8332,12 +10121,24 @@
     </states>
   </country_state>
   <country_state>
-    <name>Heard and McDonald Islands</name>
+    <name>Heard Island and McDonald Islands</name>
     <iso3>HMD</iso3>
     <iso2>HM</iso2>
-    <phone_code> </phone_code>
+    <phone_code></phone_code>
     <capital></capital>
     <currency>AUD</currency>
+    <native>Heard Island and McDonald Islands</native>
+    <region></region>
+    <subregion></subregion>
+    <timezones>
+      <zoneName>Indian/Kerguelen</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>TFT</abbreviation>
+      <tzName>French Southern and Antarctic Time</tzName>
+    </timezones>
+    <emoji>🇭🇲</emoji>
+    <emojiU>U+1F1ED U+1F1F2</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -8347,6 +10148,18 @@
     <phone_code>504</phone_code>
     <capital>Tegucigalpa</capital>
     <currency>HNL</currency>
+    <native>Honduras</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Tegucigalpa</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇭🇳</emoji>
+    <emojiU>U+1F1ED U+1F1F3</emojiU>
     <states>
       <id>4047</id>
       <name>Atlántida Department</name>
@@ -8445,6 +10258,18 @@
     <phone_code>852</phone_code>
     <capital>Hong Kong</capital>
     <currency>HKD</currency>
+    <native>香港</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Hong_Kong</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>HKT</abbreviation>
+      <tzName>Hong Kong Time</tzName>
+    </timezones>
+    <emoji>🇭🇰</emoji>
+    <emojiU>U+1F1ED U+1F1F0</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -8454,6 +10279,18 @@
     <phone_code>36</phone_code>
     <capital>Budapest</capital>
     <currency>HUF</currency>
+    <native>Magyarország</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Budapest</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇭🇺</emoji>
+    <emojiU>U+1F1ED U+1F1FA</emojiU>
     <states>
       <id>1048</id>
       <name>Bács-Kiskun County</name>
@@ -8672,6 +10509,18 @@
     <phone_code>354</phone_code>
     <capital>Reykjavik</capital>
     <currency>ISK</currency>
+    <native>Ísland</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Reykjavik</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇮🇸</emoji>
+    <emojiU>U+1F1EE U+1F1F8</emojiU>
     <states>
       <id>3431</id>
       <name>Capital Region</name>
@@ -8720,6 +10569,18 @@
     <phone_code>91</phone_code>
     <capital>New Delhi</capital>
     <currency>INR</currency>
+    <native>भारत</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kolkata</zoneName>
+      <gmtOffset>19800</gmtOffset>
+      <gmtOffsetName>UTC+05:30</gmtOffsetName>
+      <abbreviation>IST</abbreviation>
+      <tzName>Indian Standard Time</tzName>
+    </timezones>
+    <emoji>🇮🇳</emoji>
+    <emojiU>U+1F1EE U+1F1F3</emojiU>
     <states>
       <id>4023</id>
       <name>Andaman and Nicobar Islands</name>
@@ -8913,6 +10774,39 @@
     <phone_code>62</phone_code>
     <capital>Jakarta</capital>
     <currency>IDR</currency>
+    <native>Indonesia</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Jakarta</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>WIB</abbreviation>
+      <tzName>Western Indonesian Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Jayapura</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>WIT</abbreviation>
+      <tzName>Eastern Indonesian Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Makassar</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>WITA</abbreviation>
+      <tzName>Central Indonesia Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Pontianak</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>WIB</abbreviation>
+      <tzName>Western Indonesian Time</tzName>
+    </timezones>
+    <emoji>🇮🇩</emoji>
+    <emojiU>U+1F1EE U+1F1E9</emojiU>
     <states>
       <id>1822</id>
       <name>Aceh</name>
@@ -9111,6 +11005,18 @@
     <phone_code>98</phone_code>
     <capital>Tehran</capital>
     <currency>IRR</currency>
+    <native>ایران</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Tehran</zoneName>
+      <gmtOffset>12600</gmtOffset>
+      <gmtOffsetName>UTC+03:30</gmtOffsetName>
+      <abbreviation>IRDT</abbreviation>
+      <tzName>Iran Daylight Time</tzName>
+    </timezones>
+    <emoji>🇮🇷</emoji>
+    <emojiU>U+1F1EE U+1F1F7</emojiU>
     <states>
       <id>3929</id>
       <name>Alborz Province</name>
@@ -9269,6 +11175,18 @@
     <phone_code>964</phone_code>
     <capital>Baghdad</capital>
     <currency>IQD</currency>
+    <native>العراق</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Baghdad</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
+    <emoji>🇮🇶</emoji>
+    <emojiU>U+1F1EE U+1F1F6</emojiU>
     <states>
       <id>3964</id>
       <name>Al Anbar Governorate</name>
@@ -9367,6 +11285,18 @@
     <phone_code>353</phone_code>
     <capital>Dublin</capital>
     <currency>EUR</currency>
+    <native>Éire</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Dublin</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇮🇪</emoji>
+    <emojiU>U+1F1EE U+1F1EA</emojiU>
     <states>
       <id>1087</id>
       <name>Connacht</name>
@@ -9520,6 +11450,18 @@
     <phone_code>972</phone_code>
     <capital>Jerusalem</capital>
     <currency>ILS</currency>
+    <native>יִשְׂרָאֵל</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Jerusalem</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>IST</abbreviation>
+      <tzName>Israel Standard Time</tzName>
+    </timezones>
+    <emoji>🇮🇱</emoji>
+    <emojiU>U+1F1EE U+1F1F1</emojiU>
     <states>
       <id>1367</id>
       <name>Central District</name>
@@ -9558,6 +11500,18 @@
     <phone_code>39</phone_code>
     <capital>Rome</capital>
     <currency>EUR</currency>
+    <native>Italia</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Rome</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇮🇹</emoji>
+    <emojiU>U+1F1EE U+1F1F9</emojiU>
     <states>
       <id>1679</id>
       <name>Abruzzo</name>
@@ -10206,6 +12160,18 @@
     <phone_code>+1-876</phone_code>
     <capital>Kingston</capital>
     <currency>JMD</currency>
+    <native>Jamaica</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Jamaica</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇯🇲</emoji>
+    <emojiU>U+1F1EF U+1F1F2</emojiU>
     <states>
       <id>3753</id>
       <name>Clarendon Parish</name>
@@ -10284,6 +12250,18 @@
     <phone_code>81</phone_code>
     <capital>Tokyo</capital>
     <currency>JPY</currency>
+    <native>日本</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Tokyo</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>JST</abbreviation>
+      <tzName>Japan Standard Time</tzName>
+    </timezones>
+    <emoji>🇯🇵</emoji>
+    <emojiU>U+1F1EF U+1F1F5</emojiU>
     <states>
       <id>827</id>
       <name>Aichi Prefecture</name>
@@ -10522,6 +12500,18 @@
     <phone_code>+44-1534</phone_code>
     <capital>Saint Helier</capital>
     <currency>GBP</currency>
+    <native>Jersey</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Jersey</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇯🇪</emoji>
+    <emojiU>U+1F1EF U+1F1EA</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -10531,6 +12521,18 @@
     <phone_code>962</phone_code>
     <capital>Amman</capital>
     <currency>JOD</currency>
+    <native>الأردن</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Amman</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇯🇴</emoji>
+    <emojiU>U+1F1EF U+1F1F4</emojiU>
     <states>
       <id>963</id>
       <name>Ajloun Governorate</name>
@@ -10599,6 +12601,60 @@
     <phone_code>7</phone_code>
     <capital>Astana</capital>
     <currency>KZT</currency>
+    <native>Қазақстан</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Almaty</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>ALMT</abbreviation>
+      <tzName>Alma-Ata Time[1</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Aqtau</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>AQTT</abbreviation>
+      <tzName>Aqtobe Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Aqtobe</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>AQTT</abbreviation>
+      <tzName>Aqtobe Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Atyrau</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>MSD+1</abbreviation>
+      <tzName>Moscow Daylight Time+1</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Oral</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>ORAT</abbreviation>
+      <tzName>Oral Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Qostanay</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>QYZST</abbreviation>
+      <tzName>Qyzylorda Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Qyzylorda</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>QYZT</abbreviation>
+      <tzName>Qyzylorda Summer Time</tzName>
+    </timezones>
+    <emoji>🇰🇿</emoji>
+    <emojiU>U+1F1F0 U+1F1FF</emojiU>
     <states>
       <id>145</id>
       <name>Akmola Region</name>
@@ -10692,6 +12748,18 @@
     <phone_code>254</phone_code>
     <capital>Nairobi</capital>
     <currency>KES</currency>
+    <native>Kenya</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Nairobi</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇰🇪</emoji>
+    <emojiU>U+1F1F0 U+1F1EA</emojiU>
     <states>
       <id>181</id>
       <name>Baringo County</name>
@@ -10970,6 +13038,32 @@
     <phone_code>686</phone_code>
     <capital>Tarawa</capital>
     <currency>AUD</currency>
+    <native>Kiribati</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Enderbury</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>PHOT</abbreviation>
+      <tzName>Phoenix Island Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Kiritimati</zoneName>
+      <gmtOffset>50400</gmtOffset>
+      <gmtOffsetName>UTC+14:00</gmtOffsetName>
+      <abbreviation>LINT</abbreviation>
+      <tzName>Line Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Tarawa</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>GILT</abbreviation>
+      <tzName>Gilbert Island Time</tzName>
+    </timezones>
+    <emoji>🇰🇮</emoji>
+    <emojiU>U+1F1F0 U+1F1EE</emojiU>
     <states>
       <id>1831</id>
       <name>Gilbert Islands</name>
@@ -10993,6 +13087,18 @@
     <phone_code>850</phone_code>
     <capital>Pyongyang</capital>
     <currency>KPW</currency>
+    <native>북한</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Pyongyang</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>KST</abbreviation>
+      <tzName>Korea Standard Time</tzName>
+    </timezones>
+    <emoji>🇰🇵</emoji>
+    <emojiU>U+1F1F0 U+1F1F5</emojiU>
     <states>
       <id>3998</id>
       <name>Chagang Province</name>
@@ -11056,6 +13162,18 @@
     <phone_code>82</phone_code>
     <capital>Seoul</capital>
     <currency>KRW</currency>
+    <native>대한민국</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Seoul</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>KST</abbreviation>
+      <tzName>Korea Standard Time</tzName>
+    </timezones>
+    <emoji>🇰🇷</emoji>
+    <emojiU>U+1F1F0 U+1F1F7</emojiU>
     <states>
       <id>3860</id>
       <name>Busan</name>
@@ -11149,6 +13267,18 @@
     <phone_code>383</phone_code>
     <capital>Pristina</capital>
     <currency>EUR</currency>
+    <native>Republika e Kosovës</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Belgrade</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇽🇰</emoji>
+    <emojiU>U+1F1FD U+1F1F0</emojiU>
     <states>
       <id>4876</id>
       <name>Đakovica District (Gjakove)</name>
@@ -11192,6 +13322,18 @@
     <phone_code>965</phone_code>
     <capital>Kuwait City</capital>
     <currency>KWD</currency>
+    <native>الكويت</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kuwait</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
+    <emoji>🇰🇼</emoji>
+    <emojiU>U+1F1F0 U+1F1FC</emojiU>
     <states>
       <id>977</id>
       <name>Al Ahmadi Governorate</name>
@@ -11230,6 +13372,18 @@
     <phone_code>996</phone_code>
     <capital>Bishkek</capital>
     <currency>KGS</currency>
+    <native>Кыргызстан</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Bishkek</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>KGT</abbreviation>
+      <tzName>Kyrgyzstan Time</tzName>
+    </timezones>
+    <emoji>🇰🇬</emoji>
+    <emojiU>U+1F1F0 U+1F1EC</emojiU>
     <states>
       <id>998</id>
       <name>Batken Region</name>
@@ -11283,6 +13437,18 @@
     <phone_code>856</phone_code>
     <capital>Vientiane</capital>
     <currency>LAK</currency>
+    <native>ສປປລາວ</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Vientiane</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
+    <emoji>🇱🇦</emoji>
+    <emojiU>U+1F1F1 U+1F1E6</emojiU>
     <states>
       <id>982</id>
       <name>Attapeu Province</name>
@@ -11386,6 +13552,18 @@
     <phone_code>371</phone_code>
     <capital>Riga</capital>
     <currency>EUR</currency>
+    <native>Latvija</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Riga</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇱🇻</emoji>
+    <emojiU>U+1F1F1 U+1F1FB</emojiU>
     <states>
       <id>4445</id>
       <name>Aglona Municipality</name>
@@ -11984,6 +14162,18 @@
     <phone_code>961</phone_code>
     <capital>Beirut</capital>
     <currency>LBP</currency>
+    <native>لبنان</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Beirut</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇱🇧</emoji>
+    <emojiU>U+1F1F1 U+1F1E7</emojiU>
     <states>
       <id>2285</id>
       <name>Akkar Governorate</name>
@@ -12032,6 +14222,18 @@
     <phone_code>266</phone_code>
     <capital>Maseru</capital>
     <currency>LSL</currency>
+    <native>Lesotho</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Maseru</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>SAST</abbreviation>
+      <tzName>South African Standard Time</tzName>
+    </timezones>
+    <emoji>🇱🇸</emoji>
+    <emojiU>U+1F1F1 U+1F1F8</emojiU>
     <states>
       <id>3030</id>
       <name>Berea District</name>
@@ -12090,6 +14292,18 @@
     <phone_code>231</phone_code>
     <capital>Monrovia</capital>
     <currency>LRD</currency>
+    <native>Liberia</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Monrovia</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇱🇷</emoji>
+    <emojiU>U+1F1F1 U+1F1F7</emojiU>
     <states>
       <id>3041</id>
       <name>Bomi County</name>
@@ -12173,6 +14387,18 @@
     <phone_code>218</phone_code>
     <capital>Tripolis</capital>
     <currency>LYD</currency>
+    <native>‏ليبيا</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Tripoli</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇱🇾</emoji>
+    <emojiU>U+1F1F1 U+1F1FE</emojiU>
     <states>
       <id>2964</id>
       <name>Al Wahat District</name>
@@ -12286,6 +14512,18 @@
     <phone_code>423</phone_code>
     <capital>Vaduz</capital>
     <currency>CHF</currency>
+    <native>Liechtenstein</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vaduz</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇱🇮</emoji>
+    <emojiU>U+1F1F1 U+1F1EE</emojiU>
     <states>
       <id>458</id>
       <name>Balzers</name>
@@ -12349,6 +14587,18 @@
     <phone_code>370</phone_code>
     <capital>Vilnius</capital>
     <currency>EUR</currency>
+    <native>Lietuva</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vilnius</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇱🇹</emoji>
+    <emojiU>U+1F1F1 U+1F1F9</emojiU>
     <states>
       <id>1561</id>
       <name>Akmenė District Municipality</name>
@@ -12702,6 +14952,18 @@
     <phone_code>352</phone_code>
     <capital>Luxembourg</capital>
     <currency>EUR</currency>
+    <native>Luxembourg</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Luxembourg</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇱🇺</emoji>
+    <emojiU>U+1F1F1 U+1F1FA</emojiU>
     <states>
       <id>1518</id>
       <name>Canton of Capellen</name>
@@ -12785,6 +15047,18 @@
     <phone_code>853</phone_code>
     <capital>Macao</capital>
     <currency>MOP</currency>
+    <native>澳門</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Macau</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
+    <emoji>🇲🇴</emoji>
+    <emojiU>U+1F1F2 U+1F1F4</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -12794,6 +15068,18 @@
     <phone_code>389</phone_code>
     <capital>Skopje</capital>
     <currency>MKD</currency>
+    <native>Северна Македонија</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Skopje</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇲🇰</emoji>
+    <emojiU>U+1F1F2 U+1F1F0</emojiU>
     <states>
       <id>703</id>
       <name>Aerodrom Municipality</name>
@@ -13222,6 +15508,18 @@
     <phone_code>261</phone_code>
     <capital>Antananarivo</capital>
     <currency>MGA</currency>
+    <native>Madagasikara</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Antananarivo</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇲🇬</emoji>
+    <emojiU>U+1F1F2 U+1F1EC</emojiU>
     <states>
       <id>2951</id>
       <name>Antananarivo Province</name>
@@ -13260,6 +15558,18 @@
     <phone_code>265</phone_code>
     <capital>Lilongwe</capital>
     <currency>MWK</currency>
+    <native>Malawi</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Blantyre</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇲🇼</emoji>
+    <emojiU>U+1F1F2 U+1F1FC</emojiU>
     <states>
       <id>3096</id>
       <name>Balaka District</name>
@@ -13418,6 +15728,25 @@
     <phone_code>60</phone_code>
     <capital>Kuala Lumpur</capital>
     <currency>MYR</currency>
+    <native>Malaysia</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kuala_Lumpur</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>MYT</abbreviation>
+      <tzName>Malaysia Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Kuching</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>MYT</abbreviation>
+      <tzName>Malaysia Time</tzName>
+    </timezones>
+    <emoji>🇲🇾</emoji>
+    <emojiU>U+1F1F2 U+1F1FE</emojiU>
     <states>
       <id>1950</id>
       <name>Johor</name>
@@ -13506,6 +15835,18 @@
     <phone_code>960</phone_code>
     <capital>Male</capital>
     <currency>MVR</currency>
+    <native>Maldives</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Indian/Maldives</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>MVT</abbreviation>
+      <tzName>Maldives Time</tzName>
+    </timezones>
+    <emoji>🇲🇻</emoji>
+    <emojiU>U+1F1F2 U+1F1FB</emojiU>
     <states>
       <id>2594</id>
       <name>Addu Atoll</name>
@@ -13644,6 +15985,18 @@
     <phone_code>223</phone_code>
     <capital>Bamako</capital>
     <currency>XOF</currency>
+    <native>Mali</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bamako</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇲🇱</emoji>
+    <emojiU>U+1F1F2 U+1F1F1</emojiU>
     <states>
       <id>253</id>
       <name>Bamako</name>
@@ -13707,6 +16060,18 @@
     <phone_code>356</phone_code>
     <capital>Valletta</capital>
     <currency>EUR</currency>
+    <native>Malta</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Malta</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇲🇹</emoji>
+    <emojiU>U+1F1F2 U+1F1F9</emojiU>
     <states>
       <id>110</id>
       <name>Attard</name>
@@ -14050,6 +16415,18 @@
     <phone_code>+44-1624</phone_code>
     <capital>Douglas, Isle of Man</capital>
     <currency>GBP</currency>
+    <native>Isle of Man</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Isle_of_Man</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇮🇲</emoji>
+    <emojiU>U+1F1EE U+1F1F2</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -14059,6 +16436,25 @@
     <phone_code>692</phone_code>
     <capital>Majuro</capital>
     <currency>USD</currency>
+    <native>M̧ajeļ</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Kwajalein</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>MHT</abbreviation>
+      <tzName>Marshall Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Majuro</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>MHT</abbreviation>
+      <tzName>Marshall Islands Time</tzName>
+    </timezones>
+    <emoji>🇲🇭</emoji>
+    <emojiU>U+1F1F2 U+1F1ED</emojiU>
     <states>
       <id>2574</id>
       <name>Ralik Chain</name>
@@ -14077,6 +16473,18 @@
     <phone_code>596</phone_code>
     <capital>Fort-de-France</capital>
     <currency>EUR</currency>
+    <native>Martinique</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Martinique</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇲🇶</emoji>
+    <emojiU>U+1F1F2 U+1F1F6</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -14086,6 +16494,18 @@
     <phone_code>222</phone_code>
     <capital>Nouakchott</capital>
     <currency>MRO</currency>
+    <native>موريتانيا</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Nouakchott</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇲🇷</emoji>
+    <emojiU>U+1F1F2 U+1F1F7</emojiU>
     <states>
       <id>3344</id>
       <name>Adrar Region</name>
@@ -14169,6 +16589,18 @@
     <phone_code>230</phone_code>
     <capital>Port Louis</capital>
     <currency>MUR</currency>
+    <native>Maurice</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Mauritius</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MUT</abbreviation>
+      <tzName>Mauritius Time</tzName>
+    </timezones>
+    <emoji>🇲🇺</emoji>
+    <emojiU>U+1F1F2 U+1F1FA</emojiU>
     <states>
       <id>3248</id>
       <name>Agaléga</name>
@@ -14262,6 +16694,18 @@
     <phone_code>262</phone_code>
     <capital>Mamoudzou</capital>
     <currency>EUR</currency>
+    <native>Mayotte</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Mayotte</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇾🇹</emoji>
+    <emojiU>U+1F1FE U+1F1F9</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -14271,6 +16715,88 @@
     <phone_code>52</phone_code>
     <capital>Mexico City</capital>
     <currency>MXN</currency>
+    <native>México</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Bahia_Banderas</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Cancun</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Chihuahua</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Hermosillo</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Matamoros</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Mazatlan</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Merida</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Mexico_City</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Monterrey</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Ojinaga</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Tijuana</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇲🇽</emoji>
+    <emojiU>U+1F1F2 U+1F1FD</emojiU>
     <states>
       <id>3456</id>
       <name>Aguascalientes</name>
@@ -14439,6 +16965,32 @@
     <phone_code>691</phone_code>
     <capital>Palikir</capital>
     <currency>USD</currency>
+    <native>Micronesia</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Chuuk</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>CHUT</abbreviation>
+      <tzName>Chuuk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Kosrae</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>KOST</abbreviation>
+      <tzName>Kosrae Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Pohnpei</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>PONT</abbreviation>
+      <tzName>Pohnpei Standard Time</tzName>
+    </timezones>
+    <emoji>🇫🇲</emoji>
+    <emojiU>U+1F1EB U+1F1F2</emojiU>
     <states>
       <id>2580</id>
       <name>Chuuk State</name>
@@ -14467,6 +17019,18 @@
     <phone_code>373</phone_code>
     <capital>Chisinau</capital>
     <currency>MDL</currency>
+    <native>Moldova</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Chisinau</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇲🇩</emoji>
+    <emojiU>U+1F1F2 U+1F1E9</emojiU>
     <states>
       <id>4368</id>
       <name>Anenii Noi District</name>
@@ -14655,6 +17219,18 @@
     <phone_code>377</phone_code>
     <capital>Monaco</capital>
     <currency>EUR</currency>
+    <native>Monaco</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Monaco</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇲🇨</emoji>
+    <emojiU>U+1F1F2 U+1F1E8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -14664,6 +17240,32 @@
     <phone_code>976</phone_code>
     <capital>Ulan Bator</capital>
     <currency>MNT</currency>
+    <native>Монгол улс</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Choibalsan</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CHOT</abbreviation>
+      <tzName>Choibalsan Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Hovd</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>HOVT</abbreviation>
+      <tzName>Hovd Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Ulaanbaatar</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>ULAT</abbreviation>
+      <tzName>Ulaanbaatar Standard Time</tzName>
+    </timezones>
+    <emoji>🇲🇳</emoji>
+    <emojiU>U+1F1F2 U+1F1F3</emojiU>
     <states>
       <id>1973</id>
       <name>Arkhangai Province</name>
@@ -14777,6 +17379,18 @@
     <phone_code>382</phone_code>
     <capital>Podgorica</capital>
     <currency>EUR</currency>
+    <native>Црна Гора</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Podgorica</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇲🇪</emoji>
+    <emojiU>U+1F1F2 U+1F1EA</emojiU>
     <states>
       <id>23</id>
       <name>Andrijevica Municipality</name>
@@ -14895,6 +17509,18 @@
     <phone_code>+1-664</phone_code>
     <capital>Plymouth</capital>
     <currency>XCD</currency>
+    <native>Montserrat</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Montserrat</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇲🇸</emoji>
+    <emojiU>U+1F1F2 U+1F1F8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -14904,6 +17530,18 @@
     <phone_code>212</phone_code>
     <capital>Rabat</capital>
     <currency>MAD</currency>
+    <native>المغرب</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Casablanca</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WEST</abbreviation>
+      <tzName>Western European Summer Time</tzName>
+    </timezones>
+    <emoji>🇲🇦</emoji>
+    <emojiU>U+1F1F2 U+1F1E6</emojiU>
     <states>
       <id>3320</id>
       <name>Al Haouz Province</name>
@@ -15222,6 +17860,18 @@
     <phone_code>258</phone_code>
     <capital>Maputo</capital>
     <currency>MZN</currency>
+    <native>Moçambique</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Maputo</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇲🇿</emoji>
+    <emojiU>U+1F1F2 U+1F1FF</emojiU>
     <states>
       <id>3327</id>
       <name>Cabo Delgado Province</name>
@@ -15285,6 +17935,18 @@
     <phone_code>95</phone_code>
     <capital>Nay Pyi Taw</capital>
     <currency>MMK</currency>
+    <native>မြန်မာ</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Yangon</zoneName>
+      <gmtOffset>23400</gmtOffset>
+      <gmtOffsetName>UTC+06:30</gmtOffsetName>
+      <abbreviation>MMT</abbreviation>
+      <tzName>Myanmar Standard Time</tzName>
+    </timezones>
+    <emoji>🇲🇲</emoji>
+    <emojiU>U+1F1F2 U+1F1F2</emojiU>
     <states>
       <id>2142</id>
       <name>Ayeyarwady Region</name>
@@ -15368,6 +18030,18 @@
     <phone_code>264</phone_code>
     <capital>Windhoek</capital>
     <currency>NAD</currency>
+    <native>Namibia</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Windhoek</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>WAST</abbreviation>
+      <tzName>West Africa Summer Time</tzName>
+    </timezones>
+    <emoji>🇳🇦</emoji>
+    <emojiU>U+1F1F3 U+1F1E6</emojiU>
     <states>
       <id>43</id>
       <name>Erongo Region</name>
@@ -15446,6 +18120,18 @@
     <phone_code>674</phone_code>
     <capital>Yaren</capital>
     <currency>AUD</currency>
+    <native>Nauru</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Nauru</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>NRT</abbreviation>
+      <tzName>Nauru Time</tzName>
+    </timezones>
+    <emoji>🇳🇷</emoji>
+    <emojiU>U+1F1F3 U+1F1F7</emojiU>
     <states>
       <id>4656</id>
       <name>Aiwo District</name>
@@ -15524,6 +18210,18 @@
     <phone_code>977</phone_code>
     <capital>Kathmandu</capital>
     <currency>NPR</currency>
+    <native>नपल</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kathmandu</zoneName>
+      <gmtOffset>20700</gmtOffset>
+      <gmtOffsetName>UTC+05:45</gmtOffsetName>
+      <abbreviation>NPT</abbreviation>
+      <tzName>Nepal Time</tzName>
+    </timezones>
+    <emoji>🇳🇵</emoji>
+    <emojiU>U+1F1F3 U+1F1F5</emojiU>
     <states>
       <id>2082</id>
       <name>Bagmati Zone</name>
@@ -15621,21 +18319,24 @@
     </states>
   </country_state>
   <country_state>
-    <name>Netherlands Antilles</name>
-    <iso3>ANT</iso3>
-    <iso2>AN</iso2>
-    <phone_code></phone_code>
-    <capital></capital>
-    <currency></currency>
-    <states/>
-  </country_state>
-  <country_state>
     <name>Netherlands The</name>
     <iso3>NLD</iso3>
     <iso2>NL</iso2>
     <phone_code>31</phone_code>
     <capital>Amsterdam</capital>
     <currency>EUR</currency>
+    <native>Nederland</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Amsterdam</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇳🇱</emoji>
+    <emojiU>U+1F1F3 U+1F1F1</emojiU>
     <states>
       <id>2624</id>
       <name>Bonaire</name>
@@ -15719,6 +18420,18 @@
     <phone_code>687</phone_code>
     <capital>Noumea</capital>
     <currency>XPF</currency>
+    <native>Nouvelle-Calédonie</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Noumea</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>NCT</abbreviation>
+      <tzName>New Caledonia Time</tzName>
+    </timezones>
+    <emoji>🇳🇨</emoji>
+    <emojiU>U+1F1F3 U+1F1E8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -15728,6 +18441,25 @@
     <phone_code>64</phone_code>
     <capital>Wellington</capital>
     <currency>NZD</currency>
+    <native>New Zealand</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Pacific/Auckland</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>NZDT</abbreviation>
+      <tzName>New Zealand Daylight Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Chatham</zoneName>
+      <gmtOffset>49500</gmtOffset>
+      <gmtOffsetName>UTC+13:45</gmtOffsetName>
+      <abbreviation>CHAST</abbreviation>
+      <tzName>Chatham Standard Time</tzName>
+    </timezones>
+    <emoji>🇳🇿</emoji>
+    <emojiU>U+1F1F3 U+1F1FF</emojiU>
     <states>
       <id>4072</id>
       <name>Auckland Region</name>
@@ -15821,6 +18553,18 @@
     <phone_code>505</phone_code>
     <capital>Managua</capital>
     <currency>NIO</currency>
+    <native>Nicaragua</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Managua</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇳🇮</emoji>
+    <emojiU>U+1F1F3 U+1F1EE</emojiU>
     <states>
       <id>946</id>
       <name>Boaco Department</name>
@@ -15909,6 +18653,18 @@
     <phone_code>227</phone_code>
     <capital>Niamey</capital>
     <currency>XOF</currency>
+    <native>Niger</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Niamey</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇳🇪</emoji>
+    <emojiU>U+1F1F3 U+1F1EA</emojiU>
     <states>
       <id>71</id>
       <name>Agadez Region</name>
@@ -15952,6 +18708,18 @@
     <phone_code>234</phone_code>
     <capital>Abuja</capital>
     <currency>NGN</currency>
+    <native>Nigeria</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Lagos</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <emoji>🇳🇬</emoji>
+    <emojiU>U+1F1F3 U+1F1EC</emojiU>
     <states>
       <id>303</id>
       <name>Abia State</name>
@@ -16140,6 +18908,18 @@
     <phone_code>683</phone_code>
     <capital>Alofi</capital>
     <currency>NZD</currency>
+    <native>Niuē</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Niue</zoneName>
+      <gmtOffset>-39600</gmtOffset>
+      <gmtOffsetName>UTC-11:00</gmtOffsetName>
+      <abbreviation>NUT</abbreviation>
+      <tzName>Niue Time</tzName>
+    </timezones>
+    <emoji>🇳🇺</emoji>
+    <emojiU>U+1F1F3 U+1F1FA</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -16149,6 +18929,18 @@
     <phone_code>672</phone_code>
     <capital>Kingston</capital>
     <currency>AUD</currency>
+    <native>Norfolk Island</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Pacific/Norfolk</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>NFT</abbreviation>
+      <tzName>Norfolk Time</tzName>
+    </timezones>
+    <emoji>🇳🇫</emoji>
+    <emojiU>U+1F1F3 U+1F1EB</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -16158,6 +18950,18 @@
     <phone_code>+1-670</phone_code>
     <capital>Saipan</capital>
     <currency>USD</currency>
+    <native>Northern Mariana Islands</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Saipan</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>ChST</abbreviation>
+      <tzName>Chamorro Standard Time</tzName>
+    </timezones>
+    <emoji>🇲🇵</emoji>
+    <emojiU>U+1F1F2 U+1F1F5</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -16167,6 +18971,18 @@
     <phone_code>47</phone_code>
     <capital>Oslo</capital>
     <currency>NOK</currency>
+    <native>Norge</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Oslo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇳🇴</emoji>
+    <emojiU>U+1F1F3 U+1F1F4</emojiU>
     <states>
       <id>1017</id>
       <name>Akershus</name>
@@ -16280,6 +19096,18 @@
     <phone_code>968</phone_code>
     <capital>Muscat</capital>
     <currency>OMR</currency>
+    <native>عمان</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Muscat</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>GST</abbreviation>
+      <tzName>Gulf Standard Time</tzName>
+    </timezones>
+    <emoji>🇴🇲</emoji>
+    <emojiU>U+1F1F4 U+1F1F2</emojiU>
     <states>
       <id>3058</id>
       <name>Ad Dakhiliyah Governorate</name>
@@ -16353,6 +19181,18 @@
     <phone_code>92</phone_code>
     <capital>Islamabad</capital>
     <currency>PKR</currency>
+    <native>Pakistan</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Karachi</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>PKT</abbreviation>
+      <tzName>Pakistan Standard Time</tzName>
+    </timezones>
+    <emoji>🇵🇰</emoji>
+    <emojiU>U+1F1F5 U+1F1F0</emojiU>
     <states>
       <id>3172</id>
       <name>Azad Kashmir</name>
@@ -16401,6 +19241,18 @@
     <phone_code>680</phone_code>
     <capital>Melekeok</capital>
     <currency>USD</currency>
+    <native>Palau</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Palau</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>PWT</abbreviation>
+      <tzName>Palau Time</tzName>
+    </timezones>
+    <emoji>🇵🇼</emoji>
+    <emojiU>U+1F1F5 U+1F1FC</emojiU>
     <states>
       <id>4540</id>
       <name>Aimeliik</name>
@@ -16489,6 +19341,25 @@
     <phone_code>970</phone_code>
     <capital>East Jerusalem</capital>
     <currency>ILS</currency>
+    <native>فلسطين</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Gaza</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Hebron</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇵🇸</emoji>
+    <emojiU>U+1F1F5 U+1F1F8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -16498,6 +19369,18 @@
     <phone_code>507</phone_code>
     <capital>Panama City</capital>
     <currency>PAB</currency>
+    <native>Panamá</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Panama</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇵🇦</emoji>
+    <emojiU>U+1F1F5 U+1F1E6</emojiU>
     <states>
       <id>1393</id>
       <name>Bocas del Toro Province</name>
@@ -16571,6 +19454,25 @@
     <phone_code>675</phone_code>
     <capital>Port Moresby</capital>
     <currency>PGK</currency>
+    <native>Papua Niugini</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Bougainville</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>BST</abbreviation>
+      <tzName>Bougainville Standard Time[6</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Port_Moresby</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>PGT</abbreviation>
+      <tzName>Papua New Guinea Time</tzName>
+    </timezones>
+    <emoji>🇵🇬</emoji>
+    <emojiU>U+1F1F5 U+1F1EC</emojiU>
     <states>
       <id>4831</id>
       <name>Bougainville</name>
@@ -16684,6 +19586,18 @@
     <phone_code>595</phone_code>
     <capital>Asuncion</capital>
     <currency>PYG</currency>
+    <native>Paraguay</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Asuncion</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>PYST</abbreviation>
+      <tzName>Paraguay Summer Time</tzName>
+    </timezones>
+    <emoji>🇵🇾</emoji>
+    <emojiU>U+1F1F5 U+1F1FE</emojiU>
     <states>
       <id>2785</id>
       <name>Alto Paraguay Department</name>
@@ -16777,6 +19691,18 @@
     <phone_code>51</phone_code>
     <capital>Lima</capital>
     <currency>PEN</currency>
+    <native>Perú</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Lima</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>PET</abbreviation>
+      <tzName>Peru Time</tzName>
+    </timezones>
+    <emoji>🇵🇪</emoji>
+    <emojiU>U+1F1F5 U+1F1EA</emojiU>
     <states>
       <id>3685</id>
       <name>Amazonas</name>
@@ -16905,6 +19831,18 @@
     <phone_code>63</phone_code>
     <capital>Manila</capital>
     <currency>PHP</currency>
+    <native>Pilipinas</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Manila</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>PHT</abbreviation>
+      <tzName>Philippine Time</tzName>
+    </timezones>
+    <emoji>🇵🇭</emoji>
+    <emojiU>U+1F1F5 U+1F1ED</emojiU>
     <states>
       <id>1324</id>
       <name>Abra</name>
@@ -17203,7 +20141,7 @@
     <states>
       <id>1347</id>
       <name>Metro Manila</name>
-      <state_code>00</state_code>
+      <state_code>NCR</state_code>
     </states>
     <states>
       <id>1299</id>
@@ -17398,6 +20336,18 @@
     <phone_code>870</phone_code>
     <capital>Adamstown</capital>
     <currency>NZD</currency>
+    <native>Pitcairn Islands</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Pitcairn</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇵🇳</emoji>
+    <emojiU>U+1F1F5 U+1F1F3</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -17407,6 +20357,18 @@
     <phone_code>48</phone_code>
     <capital>Warsaw</capital>
     <currency>PLN</currency>
+    <native>Polska</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Warsaw</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇵🇱</emoji>
+    <emojiU>U+1F1F5 U+1F1F1</emojiU>
     <states>
       <id>1634</id>
       <name>Greater Poland Voivodeship</name>
@@ -17500,6 +20462,32 @@
     <phone_code>351</phone_code>
     <capital>Lisbon</capital>
     <currency>EUR</currency>
+    <native>Portugal</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Azores</zoneName>
+      <gmtOffset>-3600</gmtOffset>
+      <gmtOffsetName>UTC-01:00</gmtOffsetName>
+      <abbreviation>AZOT</abbreviation>
+      <tzName>Azores Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Atlantic/Madeira</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Lisbon</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <emoji>🇵🇹</emoji>
+    <emojiU>U+1F1F5 U+1F1F9</emojiU>
     <states>
       <id>2235</id>
       <name>Aveiro District</name>
@@ -17608,6 +20596,18 @@
     <phone_code>+1-787 and 1-939</phone_code>
     <capital>San Juan</capital>
     <currency>USD</currency>
+    <native>Puerto Rico</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Puerto_Rico</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇵🇷</emoji>
+    <emojiU>U+1F1F5 U+1F1F7</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -17617,6 +20617,18 @@
     <phone_code>974</phone_code>
     <capital>Doha</capital>
     <currency>QAR</currency>
+    <native>قطر</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Qatar</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
+    <emoji>🇶🇦</emoji>
+    <emojiU>U+1F1F6 U+1F1E6</emojiU>
     <states>
       <id>3182</id>
       <name>Al Daayen</name>
@@ -17665,6 +20677,18 @@
     <phone_code>262</phone_code>
     <capital>Saint-Denis</capital>
     <currency>EUR</currency>
+    <native>La Réunion</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Reunion</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>RET</abbreviation>
+      <tzName>Réunion Time</tzName>
+    </timezones>
+    <emoji>🇷🇪</emoji>
+    <emojiU>U+1F1F7 U+1F1EA</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -17674,6 +20698,18 @@
     <phone_code>40</phone_code>
     <capital>Bucharest</capital>
     <currency>RON</currency>
+    <native>România</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Bucharest</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇷🇴</emoji>
+    <emojiU>U+1F1F7 U+1F1F4</emojiU>
     <states>
       <id>4724</id>
       <name>Alba</name>
@@ -17805,14 +20841,14 @@
       <state_code>IF</state_code>
     </states>
     <states>
-      <id>4760</id>
-      <name>Maramureș County</name>
-      <state_code>MM</state_code>
-    </states>
-    <states>
       <id>4751</id>
       <name>Mehedinți County</name>
       <state_code>MH</state_code>
+    </states>
+    <states>
+      <id>4760</id>
+      <name>Mureș County</name>
+      <state_code>MM</state_code>
     </states>
     <states>
       <id>4731</id>
@@ -17887,6 +20923,193 @@
     <phone_code>7</phone_code>
     <capital>Moscow</capital>
     <currency>RUB</currency>
+    <native>Россия</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Asia/Anadyr</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>ANAT</abbreviation>
+      <tzName>Anadyr Time[4</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Barnaul</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Chita</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Irkutsk</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>IRKT</abbreviation>
+      <tzName>Irkutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Kamchatka</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>PETT</abbreviation>
+      <tzName>Kamchatka Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Khandyga</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Krasnoyarsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Magadan</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>MAGT</abbreviation>
+      <tzName>Magadan Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Novokuznetsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Novosibirsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>NOVT</abbreviation>
+      <tzName>Novosibirsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Omsk</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>OMST</abbreviation>
+      <tzName>Omsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Sakhalin</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SAKT</abbreviation>
+      <tzName>Sakhalin Island Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Srednekolymsk</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SRET</abbreviation>
+      <tzName>Srednekolymsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Tomsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>MSD+3</abbreviation>
+      <tzName>Moscow Daylight Time+3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Ust-Nera</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>VLAT</abbreviation>
+      <tzName>Vladivostok Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Vladivostok</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>VLAT</abbreviation>
+      <tzName>Vladivostok Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Yakutsk</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Yekaterinburg</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>YEKT</abbreviation>
+      <tzName>Yekaterinburg Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Astrakhan</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Kaliningrad</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Kirov</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Moscow</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Samara</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Saratov</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MSD</abbreviation>
+      <tzName>Moscow Daylight Time+4</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Ulyanovsk</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Volgograd</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Standard Time</tzName>
+    </timezones>
+    <emoji>🇷🇺</emoji>
+    <emojiU>U+1F1F7 U+1F1FA</emojiU>
     <states>
       <id>1911</id>
       <name>Altai Krai</name>
@@ -18310,6 +21533,18 @@
     <phone_code>250</phone_code>
     <capital>Kigali</capital>
     <currency>RWF</currency>
+    <native>Rwanda</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Kigali</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇷🇼</emoji>
+    <emojiU>U+1F1F7 U+1F1FC</emojiU>
     <states>
       <id>261</id>
       <name>Eastern Province</name>
@@ -18343,6 +21578,18 @@
     <phone_code>290</phone_code>
     <capital>Jamestown</capital>
     <currency>SHP</currency>
+    <native>Saint Helena</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Atlantic/St_Helena</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇸🇭</emoji>
+    <emojiU>U+1F1F8 U+1F1ED</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -18352,6 +21599,18 @@
     <phone_code>+1-869</phone_code>
     <capital>Basseterre</capital>
     <currency>XCD</currency>
+    <native>Saint Kitts and Nevis</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Kitts</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇰🇳</emoji>
+    <emojiU>U+1F1F0 U+1F1F3</emojiU>
     <states>
       <id>3833</id>
       <name>Christ Church Nichola Town Parish</name>
@@ -18435,6 +21694,18 @@
     <phone_code>+1-758</phone_code>
     <capital>Castries</capital>
     <currency>XCD</currency>
+    <native>Saint Lucia</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Lucia</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇱🇨</emoji>
+    <emojiU>U+1F1F1 U+1F1E8</emojiU>
     <states>
       <id>3757</id>
       <name>Anse la Raye Quarter</name>
@@ -18503,6 +21774,18 @@
     <phone_code>508</phone_code>
     <capital>Saint-Pierre</capital>
     <currency>EUR</currency>
+    <native>Saint-Pierre-et-Miquelon</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Miquelon</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>PMDT</abbreviation>
+      <tzName>Pierre &amp; Miquelon Daylight Time</tzName>
+    </timezones>
+    <emoji>🇵🇲</emoji>
+    <emojiU>U+1F1F5 U+1F1F2</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -18512,6 +21795,18 @@
     <phone_code>+1-784</phone_code>
     <capital>Kingstown</capital>
     <currency>XCD</currency>
+    <native>Saint Vincent and the Grenadines</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Vincent</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇻🇨</emoji>
+    <emojiU>U+1F1FB U+1F1E8</emojiU>
     <states>
       <id>3389</id>
       <name>Charlotte Parish</name>
@@ -18550,6 +21845,18 @@
     <phone_code>590</phone_code>
     <capital>Gustavia</capital>
     <currency>EUR</currency>
+    <native>Saint-Barthélemy</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Barthelemy</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇧🇱</emoji>
+    <emojiU>U+1F1E7 U+1F1F1</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -18559,6 +21866,18 @@
     <phone_code>590</phone_code>
     <capital>Marigot</capital>
     <currency>EUR</currency>
+    <native>Saint-Martin</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Marigot</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇲🇫</emoji>
+    <emojiU>U+1F1F2 U+1F1EB</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -18568,6 +21887,18 @@
     <phone_code>685</phone_code>
     <capital>Apia</capital>
     <currency>WST</currency>
+    <native>Samoa</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Apia</zoneName>
+      <gmtOffset>50400</gmtOffset>
+      <gmtOffsetName>UTC+14:00</gmtOffsetName>
+      <abbreviation>WST</abbreviation>
+      <tzName>West Samoa Time</tzName>
+    </timezones>
+    <emoji>🇼🇸</emoji>
+    <emojiU>U+1F1FC U+1F1F8</emojiU>
     <states>
       <id>4763</id>
       <name>A'ana</name>
@@ -18631,6 +21962,18 @@
     <phone_code>378</phone_code>
     <capital>San Marino</capital>
     <currency>EUR</currency>
+    <native>San Marino</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/San_Marino</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇸🇲</emoji>
+    <emojiU>U+1F1F8 U+1F1F2</emojiU>
     <states>
       <id>59</id>
       <name>Acquaviva</name>
@@ -18684,6 +22027,18 @@
     <phone_code>239</phone_code>
     <capital>Sao Tome</capital>
     <currency>STD</currency>
+    <native>São Tomé e Príncipe</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Sao_Tome</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇸🇹</emoji>
+    <emojiU>U+1F1F8 U+1F1F9</emojiU>
     <states>
       <id>270</id>
       <name>Príncipe Province</name>
@@ -18702,6 +22057,18 @@
     <phone_code>966</phone_code>
     <capital>Riyadh</capital>
     <currency>SAR</currency>
+    <native>العربية السعودية</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Riyadh</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
+    <emoji>🇸🇦</emoji>
+    <emojiU>U+1F1F8 U+1F1E6</emojiU>
     <states>
       <id>2853</id>
       <name>'Asir Region</name>
@@ -18775,6 +22142,18 @@
     <phone_code>221</phone_code>
     <capital>Dakar</capital>
     <currency>XOF</currency>
+    <native>Sénégal</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Dakar</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇸🇳</emoji>
+    <emojiU>U+1F1F8 U+1F1F3</emojiU>
     <states>
       <id>473</id>
       <name>Dakar</name>
@@ -18853,6 +22232,18 @@
     <phone_code>381</phone_code>
     <capital>Belgrade</capital>
     <currency>RSD</currency>
+    <native>Србија</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Belgrade</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇷🇸</emoji>
+    <emojiU>U+1F1F7 U+1F1F8</emojiU>
     <states>
       <id>3728</id>
       <name>Belgrade</name>
@@ -18991,6 +22382,18 @@
     <phone_code>248</phone_code>
     <capital>Victoria</capital>
     <currency>SCR</currency>
+    <native>Seychelles</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Mahe</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SCT</abbreviation>
+      <tzName>Seychelles Time</tzName>
+    </timezones>
+    <emoji>🇸🇨</emoji>
+    <emojiU>U+1F1F8 U+1F1E8</emojiU>
     <states>
       <id>513</id>
       <name>Anse Boileau</name>
@@ -19119,6 +22522,18 @@
     <phone_code>232</phone_code>
     <capital>Freetown</capital>
     <currency>SLL</currency>
+    <native>Sierra Leone</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Freetown</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇸🇱</emoji>
+    <emojiU>U+1F1F8 U+1F1F1</emojiU>
     <states>
       <id>914</id>
       <name>Eastern Province</name>
@@ -19147,6 +22562,18 @@
     <phone_code>65</phone_code>
     <capital>Singapur</capital>
     <currency>SGD</currency>
+    <native>Singapore</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Singapore</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>SGT</abbreviation>
+      <tzName>Singapore Time</tzName>
+    </timezones>
+    <emoji>🇸🇬</emoji>
+    <emojiU>U+1F1F8 U+1F1EC</emojiU>
     <states>
       <id>4651</id>
       <name>Central Singapore Community Development Council</name>
@@ -19174,12 +22601,45 @@
     </states>
   </country_state>
   <country_state>
+    <name>Sint Maarten (Dutch part)</name>
+    <iso3>SXM</iso3>
+    <iso2>SX</iso2>
+    <phone_code>1721</phone_code>
+    <capital>Philipsburg</capital>
+    <currency>ANG</currency>
+    <native>Sint Maarten</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Anguilla</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇸🇽</emoji>
+    <emojiU>U+1F1F8 U+1F1FD</emojiU>
+    <states/>
+  </country_state>
+  <country_state>
     <name>Slovakia</name>
     <iso3>SVK</iso3>
     <iso2>SK</iso2>
     <phone_code>421</phone_code>
     <capital>Bratislava</capital>
     <currency>EUR</currency>
+    <native>Slovensko</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Bratislava</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇸🇰</emoji>
+    <emojiU>U+1F1F8 U+1F1F0</emojiU>
     <states>
       <id>4352</id>
       <name>Banská Bystrica Region</name>
@@ -19228,6 +22688,18 @@
     <phone_code>386</phone_code>
     <capital>Ljubljana</capital>
     <currency>EUR</currency>
+    <native>Slovenija</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Ljubljana</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇸🇮</emoji>
+    <emojiU>U+1F1F8 U+1F1EE</emojiU>
     <states>
       <id>4183</id>
       <name>Ajdovščina Municipality</name>
@@ -20291,6 +23763,18 @@
     <phone_code>677</phone_code>
     <capital>Honiara</capital>
     <currency>SBD</currency>
+    <native>Solomon Islands</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Guadalcanal</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SBT</abbreviation>
+      <tzName>Solomon Islands Time</tzName>
+    </timezones>
+    <emoji>🇸🇧</emoji>
+    <emojiU>U+1F1F8 U+1F1E7</emojiU>
     <states>
       <id>4784</id>
       <name>Central Province</name>
@@ -20349,6 +23833,18 @@
     <phone_code>252</phone_code>
     <capital>Mogadishu</capital>
     <currency>SOS</currency>
+    <native>Soomaaliya</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Mogadishu</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇸🇴</emoji>
+    <emojiU>U+1F1F8 U+1F1F4</emojiU>
     <states>
       <id>925</id>
       <name>Awdal Region</name>
@@ -20437,6 +23933,18 @@
     <phone_code>27</phone_code>
     <capital>Pretoria</capital>
     <currency>ZAR</currency>
+    <native>South Africa</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Johannesburg</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>SAST</abbreviation>
+      <tzName>South African Standard Time</tzName>
+    </timezones>
+    <emoji>🇿🇦</emoji>
+    <emojiU>U+1F1FF U+1F1E6</emojiU>
     <states>
       <id>938</id>
       <name>Eastern Cape</name>
@@ -20490,6 +23998,18 @@
     <phone_code></phone_code>
     <capital>Grytviken</capital>
     <currency>GBP</currency>
+    <native>South Georgia</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>Atlantic/South_Georgia</zoneName>
+      <gmtOffset>-7200</gmtOffset>
+      <gmtOffsetName>UTC-02:00</gmtOffsetName>
+      <abbreviation>GST</abbreviation>
+      <tzName>South Georgia and the South Sandwich Islands Time</tzName>
+    </timezones>
+    <emoji>🇬🇸</emoji>
+    <emojiU>U+1F1EC U+1F1F8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -20499,6 +24019,18 @@
     <phone_code>211</phone_code>
     <capital>Juba</capital>
     <currency>SSP</currency>
+    <native>South Sudan</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Juba</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇸🇸</emoji>
+    <emojiU>U+1F1F8 U+1F1F8</emojiU>
     <states>
       <id>2092</id>
       <name>Central Equatoria</name>
@@ -20557,6 +24089,32 @@
     <phone_code>34</phone_code>
     <capital>Madrid</capital>
     <currency>EUR</currency>
+    <native>España</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Africa/Ceuta</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Atlantic/Canary</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Madrid</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇪🇸</emoji>
+    <emojiU>U+1F1EA U+1F1F8</emojiU>
     <states>
       <id>1179</id>
       <name>A Coruña Province</name>
@@ -20885,6 +24443,18 @@
     <phone_code>94</phone_code>
     <capital>Colombo</capital>
     <currency>LKR</currency>
+    <native>śrī laṃkāva</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Colombo</zoneName>
+      <gmtOffset>19800</gmtOffset>
+      <gmtOffsetName>UTC+05:30</gmtOffsetName>
+      <abbreviation>IST</abbreviation>
+      <tzName>Indian Standard Time</tzName>
+    </timezones>
+    <emoji>🇱🇰</emoji>
+    <emojiU>U+1F1F1 U+1F1F0</emojiU>
     <states>
       <id>2799</id>
       <name>Ampara District</name>
@@ -21058,6 +24628,18 @@
     <phone_code>249</phone_code>
     <capital>Khartoum</capital>
     <currency>SDG</currency>
+    <native>السودان</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Khartoum</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>Eastern African Time</tzName>
+    </timezones>
+    <emoji>🇸🇩</emoji>
+    <emojiU>U+1F1F8 U+1F1E9</emojiU>
     <states>
       <id>885</id>
       <name>Al Jazirah</name>
@@ -21156,6 +24738,18 @@
     <phone_code>597</phone_code>
     <capital>Paramaribo</capital>
     <currency>SRD</currency>
+    <native>Suriname</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Paramaribo</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>SRT</abbreviation>
+      <tzName>Suriname Time</tzName>
+    </timezones>
+    <emoji>🇸🇷</emoji>
+    <emojiU>U+1F1F8 U+1F1F7</emojiU>
     <states>
       <id>2846</id>
       <name>Brokopondo District</name>
@@ -21214,6 +24808,18 @@
     <phone_code>47</phone_code>
     <capital>Longyearbyen</capital>
     <currency>NOK</currency>
+    <native>Svalbard og Jan Mayen</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Arctic/Longyearbyen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇸🇯</emoji>
+    <emojiU>U+1F1F8 U+1F1EF</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -21223,6 +24829,18 @@
     <phone_code>268</phone_code>
     <capital>Mbabane</capital>
     <currency>SZL</currency>
+    <native>Swaziland</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Mbabane</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>SAST</abbreviation>
+      <tzName>South African Standard Time</tzName>
+    </timezones>
+    <emoji>🇸🇿</emoji>
+    <emojiU>U+1F1F8 U+1F1FF</emojiU>
     <states>
       <id>969</id>
       <name>Hhohho District</name>
@@ -21251,6 +24869,18 @@
     <phone_code>46</phone_code>
     <capital>Stockholm</capital>
     <currency>SEK</currency>
+    <native>Sverige</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Stockholm</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇸🇪</emoji>
+    <emojiU>U+1F1F8 U+1F1EA</emojiU>
     <states>
       <id>1537</id>
       <name>Blekinge</name>
@@ -21359,6 +24989,18 @@
     <phone_code>41</phone_code>
     <capital>Berne</capital>
     <currency>CHF</currency>
+    <native>Schweiz</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Zurich</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇨🇭</emoji>
+    <emojiU>U+1F1E8 U+1F1ED</emojiU>
     <states>
       <id>1639</id>
       <name>Aargau</name>
@@ -21492,6 +25134,18 @@
     <phone_code>963</phone_code>
     <capital>Damascus</capital>
     <currency>SYP</currency>
+    <native>سوريا</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Damascus</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇸🇾</emoji>
+    <emojiU>U+1F1F8 U+1F1FE</emojiU>
     <states>
       <id>2941</id>
       <name>Al-Hasakah Governorate</name>
@@ -21570,6 +25224,18 @@
     <phone_code>886</phone_code>
     <capital>Taipei</capital>
     <currency>TWD</currency>
+    <native>臺灣</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Taipei</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
+    <emoji>🇹🇼</emoji>
+    <emojiU>U+1F1F9 U+1F1FC</emojiU>
     <states>
       <id>3404</id>
       <name>Changhua County</name>
@@ -21693,6 +25359,18 @@
     <phone_code>992</phone_code>
     <capital>Dushanbe</capital>
     <currency>TJS</currency>
+    <native>Тоҷикистон</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dushanbe</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>TJT</abbreviation>
+      <tzName>Tajikistan Time</tzName>
+    </timezones>
+    <emoji>🇹🇯</emoji>
+    <emojiU>U+1F1F9 U+1F1EF</emojiU>
     <states>
       <id>3397</id>
       <name>districts of Republican Subordination</name>
@@ -21721,6 +25399,18 @@
     <phone_code>255</phone_code>
     <capital>Dodoma</capital>
     <currency>TZS</currency>
+    <native>Tanzania</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Dar_es_Salaam</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇹🇿</emoji>
+    <emojiU>U+1F1F9 U+1F1FF</emojiU>
     <states>
       <id>1491</id>
       <name>Arusha Region</name>
@@ -21874,6 +25564,18 @@
     <phone_code>66</phone_code>
     <capital>Bangkok</capital>
     <currency>THB</currency>
+    <native>ประเทศไทย</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Bangkok</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
+    <emoji>🇹🇭</emoji>
+    <emojiU>U+1F1F9 U+1F1ED</emojiU>
     <states>
       <id>3523</id>
       <name>Amnat Charoen</name>
@@ -22267,6 +25969,18 @@
     <phone_code>228</phone_code>
     <capital>Lome</capital>
     <currency>XOF</currency>
+    <native>Togo</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Lome</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇹🇬</emoji>
+    <emojiU>U+1F1F9 U+1F1EC</emojiU>
     <states>
       <id>2575</id>
       <name>Centrale Region</name>
@@ -22300,6 +26014,18 @@
     <phone_code>690</phone_code>
     <capital></capital>
     <currency>NZD</currency>
+    <native>Tokelau</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Fakaofo</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>TKT</abbreviation>
+      <tzName>Tokelau Time</tzName>
+    </timezones>
+    <emoji>🇹🇰</emoji>
+    <emojiU>U+1F1F9 U+1F1F0</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -22309,6 +26035,18 @@
     <phone_code>676</phone_code>
     <capital>Nuku'alofa</capital>
     <currency>TOP</currency>
+    <native>Tonga</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Tongatapu</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>TOT</abbreviation>
+      <tzName>Tonga Time</tzName>
+    </timezones>
+    <emoji>🇹🇴</emoji>
+    <emojiU>U+1F1F9 U+1F1F4</emojiU>
     <states>
       <id>3913</id>
       <name>Haʻapai</name>
@@ -22342,6 +26080,18 @@
     <phone_code>+1-868</phone_code>
     <capital>Port of Spain</capital>
     <currency>TTD</currency>
+    <native>Trinidad and Tobago</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Port_of_Spain</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇹🇹</emoji>
+    <emojiU>U+1F1F9 U+1F1F9</emojiU>
     <states>
       <id>3362</id>
       <name>Arima</name>
@@ -22430,6 +26180,18 @@
     <phone_code>216</phone_code>
     <capital>Tunis</capital>
     <currency>TND</currency>
+    <native>تونس</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Tunis</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇹🇳</emoji>
+    <emojiU>U+1F1F9 U+1F1F3</emojiU>
     <states>
       <id>2550</id>
       <name>Ariana Governorate</name>
@@ -22553,6 +26315,18 @@
     <phone_code>90</phone_code>
     <capital>Ankara</capital>
     <currency>TRY</currency>
+    <native>Türkiye</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Europe/Istanbul</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇹🇷</emoji>
+    <emojiU>U+1F1F9 U+1F1F7</emojiU>
     <states>
       <id>2212</id>
       <name>Adana Province</name>
@@ -22966,6 +26740,18 @@
     <phone_code>993</phone_code>
     <capital>Ashgabat</capital>
     <currency>TMT</currency>
+    <native>Türkmenistan</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Ashgabat</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>TMT</abbreviation>
+      <tzName>Turkmenistan Time</tzName>
+    </timezones>
+    <emoji>🇹🇲</emoji>
+    <emojiU>U+1F1F9 U+1F1F2</emojiU>
     <states>
       <id>3374</id>
       <name>Ahal Region</name>
@@ -23004,6 +26790,18 @@
     <phone_code>+1-649</phone_code>
     <capital>Cockburn Town</capital>
     <currency>USD</currency>
+    <native>Turks and Caicos Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Grand_Turk</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <emoji>🇹🇨</emoji>
+    <emojiU>U+1F1F9 U+1F1E8</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -23013,6 +26811,18 @@
     <phone_code>688</phone_code>
     <capital>Funafuti</capital>
     <currency>AUD</currency>
+    <native>Tuvalu</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Funafuti</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>TVT</abbreviation>
+      <tzName>Tuvalu Time</tzName>
+    </timezones>
+    <emoji>🇹🇻</emoji>
+    <emojiU>U+1F1F9 U+1F1FB</emojiU>
     <states>
       <id>3951</id>
       <name>Funafuti</name>
@@ -23061,6 +26871,18 @@
     <phone_code>256</phone_code>
     <capital>Kampala</capital>
     <currency>UGX</currency>
+    <native>Uganda</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Kampala</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
+    <emoji>🇺🇬</emoji>
+    <emojiU>U+1F1FA U+1F1EC</emojiU>
     <states>
       <id>329</id>
       <name>Abim District</name>
@@ -23694,6 +27516,39 @@
     <phone_code>380</phone_code>
     <capital>Kiev</capital>
     <currency>UAH</currency>
+    <native>Україна</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Kiev</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Simferopol</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Uzhgorod</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Zaporozhye</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <emoji>🇺🇦</emoji>
+    <emojiU>U+1F1FA U+1F1E6</emojiU>
     <states>
       <id>4689</id>
       <name>Autonomous Republic of Crimea</name>
@@ -23827,6 +27682,18 @@
     <phone_code>971</phone_code>
     <capital>Abu Dhabi</capital>
     <currency>AED</currency>
+    <native>دولة الإمارات العربية المتحدة</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dubai</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>GST</abbreviation>
+      <tzName>Gulf Standard Time</tzName>
+    </timezones>
+    <emoji>🇦🇪</emoji>
+    <emojiU>U+1F1E6 U+1F1EA</emojiU>
     <states>
       <id>3396</id>
       <name>Abu Dhabi Emirate</name>
@@ -23870,6 +27737,18 @@
     <phone_code>44</phone_code>
     <capital>London</capital>
     <currency>GBP</currency>
+    <native>United Kingdom</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/London</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <emoji>🇬🇧</emoji>
+    <emojiU>U+1F1EC U+1F1E7</emojiU>
     <states>
       <id>2463</id>
       <name>Aberdeen</name>
@@ -25113,6 +28992,214 @@
     <phone_code>1</phone_code>
     <capital>Washington</capital>
     <currency>USD</currency>
+    <native>United States</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Adak</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>HST</abbreviation>
+      <tzName>Hawaii–Aleutian Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Anchorage</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Boise</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Chicago</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Denver</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Detroit</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Indianapolis</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Knox</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Marengo</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Petersburg</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Tell_City</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Vevay</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Vincennes</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Winamac</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Juneau</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Kentucky/Louisville</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Kentucky/Monticello</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Los_Angeles</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Menominee</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Metlakatla</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/New_York</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Nome</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/North_Dakota/Beulah</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/North_Dakota/Center</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/North_Dakota/New_Salem</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Phoenix</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Sitka</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Yakutat</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Honolulu</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>HST</abbreviation>
+      <tzName>Hawaii–Aleutian Standard Time</tzName>
+    </timezones>
+    <emoji>🇺🇸</emoji>
+    <emojiU>U+1F1FA U+1F1F8</emojiU>
     <states>
       <id>1456</id>
       <name>Alabama</name>
@@ -25451,6 +29538,25 @@
     <phone_code>1</phone_code>
     <capital></capital>
     <currency>USD</currency>
+    <native>United States Minor Outlying Islands</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>Pacific/Midway</zoneName>
+      <gmtOffset>-39600</gmtOffset>
+      <gmtOffsetName>UTC-11:00</gmtOffsetName>
+      <abbreviation>SST</abbreviation>
+      <tzName>Samoa Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Wake</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>WAKT</abbreviation>
+      <tzName>Wake Island Time</tzName>
+    </timezones>
+    <emoji>🇺🇲</emoji>
+    <emojiU>U+1F1FA U+1F1F2</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -25460,6 +29566,18 @@
     <phone_code>598</phone_code>
     <capital>Montevideo</capital>
     <currency>UYU</currency>
+    <native>Uruguay</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Montevideo</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>UYT</abbreviation>
+      <tzName>Uruguay Standard Time</tzName>
+    </timezones>
+    <emoji>🇺🇾</emoji>
+    <emojiU>U+1F1FA U+1F1FE</emojiU>
     <states>
       <id>3205</id>
       <name>Artigas Department</name>
@@ -25563,6 +29681,25 @@
     <phone_code>998</phone_code>
     <capital>Tashkent</capital>
     <currency>UZS</currency>
+    <native>O‘zbekiston</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Samarkand</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>UZT</abbreviation>
+      <tzName>Uzbekistan Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Tashkent</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>UZT</abbreviation>
+      <tzName>Uzbekistan Time</tzName>
+    </timezones>
+    <emoji>🇺🇿</emoji>
+    <emojiU>U+1F1FA U+1F1FF</emojiU>
     <states>
       <id>2540</id>
       <name>Andijan Region</name>
@@ -25641,6 +29778,18 @@
     <phone_code>678</phone_code>
     <capital>Port Vila</capital>
     <currency>VUV</currency>
+    <native>Vanuatu</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Efate</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>VUT</abbreviation>
+      <tzName>Vanuatu Time</tzName>
+    </timezones>
+    <emoji>🇻🇺</emoji>
+    <emojiU>U+1F1FB U+1F1FA</emojiU>
     <states>
       <id>4775</id>
       <name>Malampa</name>
@@ -25679,6 +29828,18 @@
     <phone_code>379</phone_code>
     <capital>Vatican City</capital>
     <currency>EUR</currency>
+    <native>Vaticano</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vatican</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <emoji>🇻🇦</emoji>
+    <emojiU>U+1F1FB U+1F1E6</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -25688,6 +29849,18 @@
     <phone_code>58</phone_code>
     <capital>Caracas</capital>
     <currency>VEF</currency>
+    <native>Venezuela</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Caracas</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>VET</abbreviation>
+      <tzName>Venezuelan Standard Time</tzName>
+    </timezones>
+    <emoji>🇻🇪</emoji>
+    <emojiU>U+1F1FB U+1F1EA</emojiU>
     <states>
       <id>2044</id>
       <name>Amazonas</name>
@@ -25821,6 +29994,18 @@
     <phone_code>84</phone_code>
     <capital>Hanoi</capital>
     <currency>VND</currency>
+    <native>Việt Nam</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Ho_Chi_Minh</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
+    <emoji>🇻🇳</emoji>
+    <emojiU>U+1F1FB U+1F1F3</emojiU>
     <states>
       <id>3794</id>
       <name>An Giang</name>
@@ -26144,6 +30329,18 @@
     <phone_code>+1-284</phone_code>
     <capital>Road Town</capital>
     <currency>USD</currency>
+    <native>British Virgin Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Tortola</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇻🇬</emoji>
+    <emojiU>U+1F1FB U+1F1EC</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -26153,6 +30350,18 @@
     <phone_code>+1-340</phone_code>
     <capital>Charlotte Amalie</capital>
     <currency>USD</currency>
+    <native>United States Virgin Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Thomas</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <emoji>🇻🇮</emoji>
+    <emojiU>U+1F1FB U+1F1EE</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -26162,6 +30371,18 @@
     <phone_code>681</phone_code>
     <capital>Mata Utu</capital>
     <currency>XPF</currency>
+    <native>Wallis et Futuna</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Wallis</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>WFT</abbreviation>
+      <tzName>Wallis &amp; Futuna Time</tzName>
+    </timezones>
+    <emoji>🇼🇫</emoji>
+    <emojiU>U+1F1FC U+1F1EB</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -26171,6 +30392,18 @@
     <phone_code>212</phone_code>
     <capital>El-Aaiun</capital>
     <currency>MAD</currency>
+    <native>الصحراء الغربية</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/El_Aaiun</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WEST</abbreviation>
+      <tzName>Western European Summer Time</tzName>
+    </timezones>
+    <emoji>🇪🇭</emoji>
+    <emojiU>U+1F1EA U+1F1ED</emojiU>
     <states/>
   </country_state>
   <country_state>
@@ -26180,6 +30413,18 @@
     <phone_code>967</phone_code>
     <capital>Sanaa</capital>
     <currency>YER</currency>
+    <native>اليَمَن</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Aden</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
+    <emoji>🇾🇪</emoji>
+    <emojiU>U+1F1FE U+1F1EA</emojiU>
     <states>
       <id>1242</id>
       <name>'Adan Governorate</name>
@@ -26293,6 +30538,18 @@
     <phone_code>260</phone_code>
     <capital>Lusaka</capital>
     <currency>ZMW</currency>
+    <native>Zambia</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Lusaka</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇿🇲</emoji>
+    <emojiU>U+1F1FF U+1F1F2</emojiU>
     <states>
       <id>1986</id>
       <name>Central Province</name>
@@ -26351,6 +30608,18 @@
     <phone_code>263</phone_code>
     <capital>Harare</capital>
     <currency>ZWL</currency>
+    <native>Zimbabwe</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Harare</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <emoji>🇿🇼</emoji>
+    <emojiU>U+1F1FF U+1F1FC</emojiU>
     <states>
       <id>1956</id>
       <name>Bulawayo Province</name>
